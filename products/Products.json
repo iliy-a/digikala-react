@@ -1,0 +1,3783 @@
+{
+  "head": [
+    {
+      "id": 1,
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/ddf74982d4203d2c0a339165b72783c77cd94c42_1753270483.gif?x-oss-process=image?x-oss-process=image/format,webp"
+    }
+  ],
+  "storyslider": [
+    {
+      "id": 3,
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/da3970e49b85f7cf0c8dd10a8f1fb84db760fd72_1749546639.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+    },
+    {
+      "id": 4,
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/fcf6413af1b17521c877444ccdd21c6931d1e5bd_1749593061.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+    },
+    {
+      "id": 5,
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/7375ecf81b26bc3616e638a03e7b7e68c1979d85_1749502997.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+    },
+    {
+      "id": 6,
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/dd601f7f78980ab64436b8e93783e06bdb67cbaf_1749582519.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+    },
+    {
+      "id": 7,
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/90729439736d64091d78024e81aef104d3496941_1749585581.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+    },
+    {
+      "id": 8,
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/e1d871a9913f3e1c0dd2f8d6d2341ba4ab61fca1_1749559564.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+    },
+    {
+      "id": 9,
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/ac670b4a2b9278199ea91863b70b21b2a6467f48_1749597045.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+    },
+    {
+      "id": 10,
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/da3970e49b85f7cf0c8dd10a8f1fb84db760fd72_1749546639.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+    },
+    {
+      "id": 11,
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/4f215af6c2fb14ecf4bff85f1c84b6928ee38767_1749598345.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+    },
+    {
+      "id": 12,
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/1f13fc7f5ce0aba1515e34dd72d1b1f55e765bb2_1749598952.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+    },
+    {
+      "id": 13,
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/f0609485634d55f0c3419a30f1c1ced7bbcb8b8c_1749495302.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+    },
+    {
+      "id": 14,
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/9503cf455c3e029fee09169ea728b909238cf57f_1749619338.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+    },
+    {
+      "id": 15,
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/cc8638acbfcb6d441cbe2edf8d2849c8a204bee7_1749584869.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+    },
+    {
+      "id": 16,
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/4e95d8660aebece53ad647680bde6ccd9228b462_1749631541.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+    },
+    {
+      "id": 17,
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/ccae7f3ab9d09c354aeccc8b4c93da1a863f189f_1749584996.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+    },
+    {
+      "id": 18,
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/195095eb0a29144bcaaec51dd109198d72a8b593_1749574604.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+    },
+    {
+      "id": 19,
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/edd23318d8ce32ab089152d0cbc262fedfe7fa33_1749574199.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+    },
+    {
+      "id": 20,
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/da3970e49b85f7cf0c8dd10a8f1fb84db760fd72_1749546639.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+    },
+    {
+      "id": 21,
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/55b9a46d2f8dec9ab2bf08e88d1c618b4e0f4fe3_1749581324.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+    },
+    {
+      "id": 22,
+      "image": "https://dkstatics-public.digikala.com/digikala-content-x-post-media/aa1920c41045802cf302b1c0cf21e48f211f2d2e_1749620052.jpg?x-oss-process=image/resize,m_fill,h_115,w_115"
+    }
+  ],
+  "slider": [
+    {
+      "id": 23,
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/83fc087138915ce6acf530a1bb68017cc9a0d631_1751450180.gif?x-oss-process=image?x-oss-process=image/format,webp"
+    },
+    {
+      "id": 24,
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/b860850c1ca21eb3b525b242e50246fa992c5bb3_1751891919.jpg?x-oss-process=image/quality,q_95/format,webp"
+    },
+    {
+      "id": 25,
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/b9d64aaccf3b6690bf9f841b4a1fff2eed1f331d_1751964607.jpg?x-oss-process=image/quality,q_95/format,webp"
+    },
+    {
+      "id": 26,
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/1848eb8d6be28c72591b8e41a573ba7627ff9443_1723531247.jpg?x-oss-process=image/quality,q_95/format,webp"
+    },
+    {
+      "id": 27,
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/a5fd8c58c9e624843510da0a4dd4d15732b726f1_1751900760.jpg?x-oss-process=image/quality,q_95/format,webp"
+    },
+    {
+      "id": 28,
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/92f45577479410dd60b11ecefa48439c1712086e_1746530694.jpg?x-oss-process=image/quality,q_95/format,webp"
+    },
+    {
+      "id": 29,
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/39a92e5621ccd7b3db8c9d6b42f31fc0b7ebc5bc_1751867259.jpg?x-oss-process=image/quality,q_95/format,webp"
+    },
+    {
+      "id": 30,
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/5734c0805d1749534a8cbc5b13eeb5bf83a24032_1722759055.jpg?x-oss-process=image/quality,q_95/format,webp"
+    },
+    {
+      "id": 31,
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/c37f3ab10439601a13e20acd9307eefd907ce253_1748865326.gif?x-oss-process=image?x-oss-process=image/format,webp"
+    },
+    {
+      "id": 32,
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/21e8dbb481ecca63254b7528b4aaab8847565dfd_1751655144.jpg?x-oss-process=image/quality,q_95/format,webp"
+    },
+    {
+      "id": 33,
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/d920f8ed9979e199b3956017dac90a0717eba143_1751877949.gif?x-oss-process=image?x-oss-process=image/format,webp"
+    },
+    {
+      "id": 34,
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/9cfe03b7d09bb2e39380a54d211292b40ebd86aa_1751970262.jpg?x-oss-process=image/quality,q_95/format,webp"
+    }
+  ],
+  "banerlg": [
+    {
+      "id": 34,
+      "image": "https://dkstatics-public.digikala.com/digikala-admin-landing/d4d0e63e84d713ef0b19e00edcb42d4ac5c259ec_1725786112.png"
+    }
+  ],
+  "item": [
+    {
+      "id": 35,
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/9a876564ff15c2c8c0b15853a5c79d3bec92eecb_1736348602.png",
+      "tex": "طلای‌دیجیتال قسطی"
+    },
+    {
+      "id": 36,
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/e4de6f360fcda4f501f21419ba40a100460740cd_1733129128.png",
+      "tex": "خرید قسطی"
+    },
+    {
+      "id": 37,
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/cc90a533986d6672b68f1f38c8683ef94d74c497_1727699529.png",
+      "tex": "موبایل‌کارکرده باگارانتی"
+    },
+    {
+      "id": 38,
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/e90f351fd01e1f19f9293135d4dc252c052b649b_1730791472.jpg",
+      "tex": "ساعت‌هوشمند هدفون"
+    },
+    {
+      "id": 39,
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/915e874166d4248e459541077b589b7b2df4e929_1752317176.png",
+      "tex": "بهترین قیمت"
+    },
+    {
+      "id": 40,
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/0bddf8e568dde6e84f53682bc3e04d325c8930e9_1752648788.png",
+      "tex": "شریک نیکی باش"
+    },
+    {
+      "id": 41,
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/7dc825fc06f80c83c97e2d3c6f44de36f46776ba_1744625763.jpg",
+      "tex": "لوازم سرمایشی"
+    },
+    {
+      "id": 42,
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/78ccd40cbf305fb067de78ddab5be84f69589c8d_1669150455.png",
+      "tex": "اشتراک پلاس"
+    },
+    {
+      "id": 43,
+      "image": "https://dkstatics-public.digikala.com/digikala-bellatrix/7493e66e491c18d699274a48a53a9dfcb8aa2e93_1717230600.png",
+      "tex": "شگفت فروشگاه‌حضوری"
+    }
+  ],
+
+  "offer": [
+    {
+      "id": 44,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/44ce89b58fa7a4ef217e9e53058a4da4e852f971_1727264643.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "گوشی موبایل شیائومی مدل Redmi A3 دو سیم",
+      "price": "۶,۷۵۷,۰۰۰",
+      "priceoff": "۶,۳۵۷,۰۰۰",
+      "off": "۳"
+    },
+    {
+      "id": 45,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/7477d1ab9aaa1065e4e6dabe71f535674ff3a866_1740313084.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "هدفون بلوتوثی لوکسار مدل T9",
+      "price": "۱,۴۴۰,۰۰۰",
+      "priceoff": "۲,۶۰۰,۰۰۰",
+      "off": "۴۵"
+    },
+    {
+      "id": 46,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/6b2617aaa1003b8751ebf6f69e321c8328fca6b6_1740496232.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "هدست کلاه ایمنی ایکس او مدل BE47",
+      "price": "۲,۹۹۵,۰۰۰",
+      "priceoff": "۵,۳۰۰,۰۰۰",
+      "off": "۴۳"
+    },
+    {
+      "id": 47,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/119427496.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "هندزفری بلوتوث ایکس او مدل BE4",
+      "price": "۳۹۵,۰۰۰",
+      "priceoff": "۶۶۰,۰۰۰",
+      "off": "۴۰"
+    },
+    {
+      "id": 48,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/d5614f2141da3f1bf13725882ae04978c336059e_1689340505.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "هندزفری لیتو مدل LE-12",
+      "price": "۱۲۹,۰۰۰",
+      "priceoff": "۱۹۵,۰۰۰",
+      "off": "۳۴"
+    },
+    {
+      "id": 49,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/76471135af9a40bca4e05da0c9e321858f09e4e8_1746610540.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "لپ تاپ 16 اینچی ایسر مدل Aspire Lite AL16-52P",
+      "price": "۲۶,۸۹۹,۰۰۰",
+      "priceoff": "۲۸,۰۰۰,۰۰۰",
+      "off": "۴"
+    },
+    {
+      "id": 50,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/52461b83e7a8b8ffa38a6376dab53784f6f260d3_1744448810.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "لپ تاپ 15.6 اینچی ایسوس مدل TUF Gaming A15 FA507NUR-LP001-R7 7435HS-16GB DDR5-1TB SSD-RTX4050-FHD",
+      "price": "۸۳,۴۹۹,۰۰۰",
+      "priceoff": "۸۵,۰۰۰,۰۰۰",
+      "off": "۲"
+    },
+    {
+      "id": 51,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/127ba6357c15964be11ae207393b50456e8414c3_1735713459.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "ساعت مچی عقربه‌ای مردانه کوارتز سیتی زن مدل AN3600-59E",
+      "price": "۸,۹۹۰,۰۰۰",
+      "priceoff": "۱۵,۸۵۰,۰۰۰",
+      "off": "۴۳"
+    },
+    {
+      "id": 52,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/774fdd83460e6552b34e5c8d72eedef6032a7481_1738666322.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "کرم ضد آفتالیته رنگ متوسط، حجم 50 میلی‌لیتر، حاوی مگاری 4 ساعته",
+      "price": "۳۹۷,۰۰۰",
+      "priceoff": "۱,۴۳۷,۰۰۰",
+      "off": "۷۲"
+    },
+    {
+      "id": 53,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c9f7c6d5d1bb167d48fac123e7a2eb474fb19c30_1729406912.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "کرم ضد آفتاب بدون رنگ عسل بانو SPF 30 مدل 01 مناسب انواع پوست‌ حجم 50 میلی‌‌لیتر",
+      "price": "۳۸۷,۳۰۰",
+      "priceoff": "۱,۱۹۰,۰۰۰",
+      "off": "۶۷"
+    },
+    {
+      "id": 54,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/8ea33b15d83444730f5d7c7b23c9a96e49aedd0c_1747035028.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "کرم ضد آفتاب بدون رنگ عسل بانو SPF 30 مدل 01 مناسب انواع پوست‌ حجم 50 میلی‌‌لیتر",
+      "price": "۱۸۱,۴۴۰",
+      "priceoff": "۴۳۲,۰۰۰",
+      "off": "۵۸"
+    },
+    {
+      "id": 55,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/fdde4a31922a55f949962f74992ab1e6e5d4f695_1696172331.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "قرص ویتامین سی و رزهیپ مگنوم ویتامینز بسته 30 عددی",
+      "price": "۱۰۹,۴۸۰",
+      "priceoff": "۳۹۶,۷۰۰",
+      "off": "۷۲"
+    }
+  ],
+  "box": [
+    {
+      "id": 56,
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/f32ef3fd6934f0bba2a7d752d0652ad05b4abf4e_1752493347.jpg?x-oss-process=image/quality,q_95/format,webp"
+    },
+    {
+      "id": 57,
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/d3d471f4017db1857ba8b2dda3aa2cfe6085667a_1753279813.jpg?x-oss-process=image/quality,q_95/format,webp"
+    },
+    {
+      "id": 58,
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/2adf67ec2be60a1b9c52ded2dea6c9b82c22afaa_1753184030.jpg?x-oss-process=image/quality,q_95/format,webp"
+    },
+    {
+      "id": 59,
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/0a50fc6e68679607ddf4e1f13d4f088e1ad78ffc_1753184387.jpg?x-oss-process=image/quality,q_95/format,webp"
+    }
+  ],
+  "box2": [
+    {
+      "id": 60,
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/e4878a2968bfc5b2f48024f506e784dc3e2efd58_1752931129.jpg?x-oss-process=image/quality,q_95/format,webp"
+    },
+    {
+      "id": 61,
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/3bc15b40a4cbf0b98c0644fcd491bf152e68ef16_1753279236.jpg?x-oss-process=image/quality,q_95/format,webp"
+    },
+    {
+      "id": 62,
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/82f2d01bd03e3ba25c90013312e8c08f30276bdf_1753016066.jpg?x-oss-process=image/quality,q_95/format,webp"
+    },
+    {
+      "id": 63,
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/f923944b9490ed4f7009507acdeff4c3227205eb_1753599834.jpg?x-oss-process=image/quality,q_95/format,webp"
+    }
+  ],
+
+  "hayper": [
+    {
+      "id": 64,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/3284348.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "offer": "۴۵"
+    },
+    {
+      "id": 65,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/112360452.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "offer": "۶۰"
+    },
+    {
+      "id": 66,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/5a303470d30d4f6cbfbf1d15f60b16ad931d989a_1661770457.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "offer": "۳۵"
+    }
+  ],
+  "category": [
+    {
+      "id": 70,
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/09a98a13c782e12a245930b4515d243b17734a33_1740299441.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "tex": "موبایل"
+    },
+    {
+      "id": 71,
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/7cf1fed6dac6bdfd1b888db6bf8f443ea680244b_1748692252.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "tex": "لپ تاپ"
+    },
+    {
+      "id": 72,
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/151ec29bae111afd3b6a0e71cec5c4c26f1c3014_1740299456.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "tex": "کالای دیجیتال"
+    },
+    {
+      "id": 73,
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/8a042388b93c5116604f35092a1fb35f8f0756be_1740299467.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "tex": "خانه و آشپزخانه"
+    },
+    {
+      "id": 74,
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/d825f64f509cd5067a9022528c465e8ca705f60d_1740299511.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "tex": "لوازم خانگی برقی"
+    },
+    {
+      "id": 75,
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/b196bbdea97f57bfac02dc1666d7401b16ee4bcb_1740299482.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "tex": "آرایشی بهداشتی"
+    },
+    {
+      "id": 76,
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/03552aa1293fec9f43477814ca62afdacdac18e3_1740299496.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "tex": "خودرو و موتورسیکلت"
+    },
+    {
+      "id": 77,
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/fb6303218362cd2c48b40fef5da89ad33a5c04d7_1740299524.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "tex": "ابزار آلات و تجهیزات"
+    },
+    {
+      "id": 78,
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/b3d4eaefebe67ab8d849296ea2e7e113cde8094c_1740299538.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "tex": "مد و پوشاک"
+    },
+    {
+      "id": 79,
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/78135af4274ad7b7fcdaec7e5912689e5f5db96a_1740299548.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "tex": "طلا و نقره"
+    },
+    {
+      "id": 80,
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/deb3f514c62761797eb6a49e1559268b8bce3219_1740299561.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "tex": "تجهیزات پزشکی و سلامت"
+    },
+    {
+      "id": 81,
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/0cdf9c404e509371c3177a334be948a7e500419c_1740299574.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "tex": "کتاب، لوازم تحریر و هنر"
+    },
+    {
+      "id": 82,
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/4d4582205d0d5045c2bd94c5e910bbb49ae4fd4e_1740299590.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "tex": "ورزش و سفر"
+    },
+    {
+      "id": 83,
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/f35b3eba7de8bf2432fff4f53abfa8cbaa6e71d6_1740299603.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "tex": "کارت هدیه و گیفت کارت"
+    },
+    {
+      "id": 84,
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/7adb0cc6edc18a6d04b9ba3bdd424b1bcce47848_1740299618.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "tex": "سوپر مارکت آنلاین"
+    },
+    {
+      "id": 85,
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/6f5284dccdb280616bbfe58533ecc483de4639af_1740299648.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "tex": "اسباب بازی، کودک و نوزاد"
+    },
+    {
+      "id": 86,
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/9a4dfac524f8a865f9f69e38d5434fa69fe63e3b_1740299663.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "tex": "محصولات بومی و محلی"
+    },
+    {
+      "id": 87,
+      "image": "https://dkstatics-public.digikala.com/digikala-mega-menu/29b1e4b2aa0e42aaa361228f8d0402910c949b14_1740299704.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "tex": "پت شاپ"
+    }
+  ],
+  "baner": [
+    {
+      "id": 88,
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/87b2de86987255aded6791eae764e0ac13df23fa_1753527656.jpg?x-oss-process=image/quality,q_95/format,webp"
+    },
+    {
+      "id": 89,
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/0366b12be26ba3e25654474a0ddbe71ccfcd59ed_1753511465.gif?x-oss-process=image?x-oss-process=image/format,webp"
+    }
+  ],
+  "brand": [
+    {
+      "id": 90,
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/2c36ceb629598fa31b9b321fcd4e47773bd93ef7_1649498016.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    },
+    {
+      "id": 91,
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/7d615272ba7fc5dd708195ae858e2971de86a06f_1649498033.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    },
+    {
+      "id": 92,
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/9f5727fd7c13dc4b10c879a1865d77bc1fb333ce_1705308969.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    },
+    {
+      "id": 93,
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/1800.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    },
+    {
+      "id": 94,
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/5a10ae95eb42fc96906c8062563b28062668d418_1722238640.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    },
+    {
+      "id": 95,
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/3f0e8a262651232007912c06d7cd69f7d9b4bfa4_1662306119.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    },
+    {
+      "id": 96,
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/d23e8875d5f7a9735e433f1fd86a1513902efc8b_1604470597.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    },
+    {
+      "id": 97,
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/960dc4b74e21a9d33d594a161386179b26b3a68a_1606823783.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    },
+    {
+      "id": 98,
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/070d1eb61036eaa9d9981aeadd4a0f05cf93efe6_1627122768.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    },
+    {
+      "id": 99,
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/af664f0bcf9bc412b741c618e6e52fc2d090198f_1619269008.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    },
+    {
+      "id": 100,
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/e44886020b773202d6d431e2fef2f3bd8bd3bc7f_1737817444.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    },
+    {
+      "id": 101,
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/2994.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    },
+    {
+      "id": 102,
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/3960.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    },
+    {
+      "id": 103,
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/3972.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    },
+    {
+      "id": 104,
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/1313.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    },
+    {
+      "id": 105,
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/efb14accdad9be1b2176aa0317c8bbac43733831_1609325767.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    },
+    {
+      "id": 106,
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/87dcb454f4d8df28bd2f8fd902f0f27b5fb1fac4_1666761801.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    },
+    {
+      "id": 107,
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/311.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    },
+    {
+      "id": 108,
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/100008301.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    },
+    {
+      "id": 109,
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/bff03daf9cf71a71b7e41b31255ba9e747d1a01f_1644133724.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    },
+    {
+      "id": 110,
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/100012444.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    },
+    {
+      "id": 111,
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/477ab48bb7261595c02cb0f4c504837e464f00d0_1663485028.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    },
+    {
+      "id": 112,
+      "image": "https://dkstatics-public.digikala.com/digikala-brands/f660c46ffc6d58a19e5c0af9d03c50be9a929571_1627214766.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    }
+  ],
+  "baner2": [
+    {
+      "id": 113,
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/9c48233ef2ad5d09ce5e114ef5c1d158837253ea_1753511360.jpg?x-oss-process=image/quality,q_95/format,webp"
+    },
+    {
+      "id": 114,
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/1207ce5bc10024dbf5cc58501cd0ec4b1226b420_1753282141.jpg?x-oss-process=image/quality,q_95/format,webp"
+    }
+  ],
+  "kala": [
+    {
+      "id": 115,
+      "tex": "کیف و کاور گوشی",
+      "img": [
+        {
+          "id": 119,
+          "image": "https://dkstatics-public.digikala.com/digikala-products/9af3750ad9c0554a04d5533380bca121b52420ed_1753095424.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        },
+        {
+          "id": 120,
+          "image": "https://dkstatics-public.digikala.com/digikala-products/265c1d999ef8192963b22a3bfd8625fc2a87baaa_1748885636.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        },
+        {
+          "id": 121,
+          "image": "https://dkstatics-public.digikala.com/digikala-products/f779f046bdb83949b895f0090892d7fdff09bf1c_1728804021.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        },
+        {
+          "id": 122,
+          "image": "https://dkstatics-public.digikala.com/digikala-products/0c0d7bb2b4e48d3988de8ab54b8d35058b185665_1747417982.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "tex": "گوشی موبایل",
+      "img": [
+        {
+          "id": 123,
+          "image": "https://dkstatics-public.digikala.com/digikala-products/c0a7ce006d11c222bce16bd3cdd8d79aeb6689bc_1738134271.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        },
+        {
+          "id": 124,
+          "image": "https://dkstatics-public.digikala.com/digikala-products/5af568b4909435c6a215ad5e728e902db234b673_1736597759.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        },
+        {
+          "id": 125,
+          "image": "https://dkstatics-public.digikala.com/digikala-products/a3eab70feb1040f19b2160de0fc920b3dee3be7d_1753628757.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        },
+        {
+          "id": 126,
+          "image": "https://dkstatics-public.digikala.com/digikala-products/6144c3fdde10110e4312420db31e07f42e2cfc3a_1738146333.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "tex": " هدفون، هدست و هندزفری",
+      "img": [
+        {
+          "id": 127,
+          "image": "https://dkstatics-public.digikala.com/digikala-products/de808825f5fdd1004beecc78cfc4ccdbed6d12e1_1730383699.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        },
+        {
+          "id": 128,
+          "image": "https://dkstatics-public.digikala.com/digikala-products/ef1f4a20290cbb7d4da436d113ff62e25e551bc7_1685041249.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        },
+        {
+          "id": 129,
+          "image": "https://dkstatics-public.digikala.com/digikala-products/a0b1c09e283707e1b45e2d35065cf6be299540b3_1746968491.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        },
+        {
+          "id": 130,
+          "image": "https://dkstatics-public.digikala.com/digikala-products/95e4001685c6f3440f034ef3d4e7e48f40e561a3_1746624468.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "tex": "لپ تاپ و الترابوک",
+      "img": [
+        {
+          "id": 131,
+          "image": "https://dkstatics-public.digikala.com/digikala-products/0ef8ef86afd56051f3d606fd021241c5c0dd65b3_1751272463.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        },
+        {
+          "id": 132,
+          "image": "https://dkstatics-public.digikala.com/digikala-products/c0ea28e92f7c366267f50bbce4ee30665c25ea58_1752071837.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        },
+        {
+          "id": 133,
+          "image": "https://dkstatics-public.digikala.com/digikala-products/0770d1b82583fc3b8c10ee2cd4e389727461cc91_1732913841.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        },
+        {
+          "id": 134,
+          "image": "https://dkstatics-public.digikala.com/digikala-products/f8743c35147efa57a1388e696e6d7451e4a10408_1728381002.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        }
+      ]
+    }
+  ],
+  "bestsell": [
+    {
+      "id": 135,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/7c391ac4335c87cc49b458650470ac240a6bf7da_1619600774.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۱",
+      "texet": "رب گوجه فرنگی روژین مقدار 800 گرم "
+    },
+
+    {
+      "id": 136,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4bc080993af2f26c76e94fe7907ddef881f2b9c6_1609743727.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۴",
+      "texet": "آب معدنی میوا - 1.5 لیتر بسته 6 عددی"
+    },
+
+    {
+      "id": 137,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/114687192.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۷",
+      "texet": "پاوربانک شیائومی مدل Redmi ..."
+    },
+
+    {
+      "id": 138,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/74712a4fffa7b09198409ea66827b3b802f73e4b_1637577703.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۱۰",
+      "texet": "خامه هراز - 200 میلی لیتر "
+    },
+
+    {
+      "id": 139,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/f9d853fcd65f1d325b6f57f0f69b60de7ce8091c_1752336564.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۱۳",
+      "texet": "کنسرو تون ماهی در روغن گیاهی ... "
+    },
+
+    {
+      "id": 140,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/7195b8ab06c73a777bd21f03865f25cd3b0343b0_1716640014.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۱۶",
+      "texet": "اسپاگتی قطر 1.2 مانا مقدار 700 گرم"
+    },
+
+    {
+      "id": 141,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c124ed3a863b7eec53b5a2aa35732e691c9dc859_1749653724.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۲",
+      "texet": "کنسرو ماهی تون در روغن آفتاب گر..."
+    },
+
+    {
+      "id": 142,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/dba25b58eb5b78d2cbf41d5befd49e5f5f64b5e4_1730022466.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۵",
+      "texet": "شکر سفید الماس دانه - 1 کیلوگرم"
+    },
+
+    {
+      "id": 143,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/bca4ab4e321f27bc08cfc8e5053ff81ab7a47f41_1716640637.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۸",
+      "texet": "اسپاگتی قطر 1.6 مانا مقدار 700 گرم"
+    },
+
+    {
+      "id": 144,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/b94ea8bc33d7cb3ea9fe81f6b40b59ed09dde3b5_1630906332.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۱۱",
+      "texet": "کنسرو رب گوجه فرنگی طبیعت مقدار ...  "
+    },
+
+    {
+      "id": 145,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c0a7ce006d11c222bce16bd3cdd8d79aeb6689bc_1738134271.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۱۴",
+      "texet": "گوشی موبایل شیائومی مدل Redmi...   "
+    },
+
+    {
+      "id": 146,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4780647.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۱۷",
+      "texet": "خامه فرادما پگاه  200 میلی ..."
+    },
+
+    {
+      "id": 147,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/71caa840492104dbddd2b74d744542fd5990aa4b_1625997515.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۳",
+      "texet": "فلوئید ضدآفتاب بی‌رنگ مای SPF50 ..."
+    },
+
+    {
+      "id": 148,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/7aed8dce9754a8d5989db794e1911c585c78afac_1604157003.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۶",
+      "texet": "آب معدنی آکوا پرایم - 1500 میلی... "
+    },
+
+    {
+      "id": 149,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/d3c8880bb8ad668526e1df266957c1d3c9c844bb_1681901721.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۹",
+      "texet": "آب آشامیدنی نستله سری پیور لایف ..."
+    },
+
+    {
+      "id": 150,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/d1055810db8be202b6d0bd250bdf69005b9bb597_1667285890.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۱۲",
+      "texet": "کره کاله - 100 گرم "
+    },
+
+    {
+      "id": 151,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/01d7a276000522e9d73b4da714771bde8c8857c2_1609669317.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۱۵",
+      "texet": "آب معدنی میوا - 1.5..."
+    },
+
+    {
+      "id": 152,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/121654059.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۱۸",
+      "texet": "پنیر فتا دوشه هراز - 400 گرم"
+    }
+  ],
+  "kala2": [
+    {
+      "id": 153,
+      "tex": "جوراب مردانه",
+      "img": [
+        {
+          "id": 157,
+          "image": "https://dkstatics-public.digikala.com/digikala-products/2753fcb21caa39ab0a9d895c5b2bcc27c5109bb2_1744533304.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        },
+        {
+          "id": 158,
+          "image": "https://dkstatics-public.digikala.com/digikala-products/d9a83fbea5b9b71b1ea6058abc81923fbcb1a8c5_1726137419.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        },
+        {
+          "id": 159,
+          "image": "https://dkstatics-public.digikala.com/digikala-products/1077030314eafaba274cc6224e17832307db5f0c_1633962217.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        },
+        {
+          "id": 160,
+          "image": "https://dkstatics-public.digikala.com/digikala-products/b8dc22303079b28deb66a10a4a23639c4beb5da9_1700390948.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "tex": "پنکه‌های دستی، شارژی، همراه، گیره‌ای و USB",
+      "img": [
+        {
+          "id": 161,
+          "image": "https://dkstatics-public.digikala.com/digikala-products/fa2d29e32a5f89717dba38f7364d24ed00be405f_1740310982.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        },
+        {
+          "id": 162,
+          "image": "https://dkstatics-public.digikala.com/digikala-products/ec641c8a2fb9b852f32becfe9a10edc9c2683bd1_1740310983.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        },
+        {
+          "id": 163,
+          "image": "https://dkstatics-public.digikala.com/digikala-products/21b475f62099fa55d6d05c2c4ca0537b33185139_1740310980.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        },
+        {
+          "id": 164,
+          "image": "https://dkstatics-public.digikala.com/digikala-products/ad6df75a091aefc3350c08a1d6fb16374d548fee_1752583982.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "tex": "سایر لوازم خودرو",
+      "img": [
+        {
+          "id": 165,
+          "image": "https://dkstatics-public.digikala.com/digikala-products/1310815a028dde7627b1fb33fa9d2dc02f2735f9_1725716638.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        },
+        {
+          "id": 166,
+          "image": "https://dkstatics-public.digikala.com/digikala-products/21c89ff0c6d7fe7ea530e0f3b7a3f1e7c0e2a505_1707560786.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        },
+        {
+          "id": 167,
+          "image": "https://dkstatics-public.digikala.com/digikala-products/67c3ec3c20812bd6c37e289665172e21fba889e7_1718627186.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        },
+        {
+          "id": 168,
+          "image": "https://dkstatics-public.digikala.com/digikala-products/42b1e84de64c3d3be619c9a387a705a327840814_1753081283.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "tex": "کیف و کاور تبلت",
+      "img": [
+        {
+          "id": 169,
+          "image": "https://dkstatics-public.digikala.com/digikala-products/50fec09245ce040e710026d1b22264a1040ec217_1734971385.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        },
+        {
+          "id": 170,
+          "image": "https://dkstatics-public.digikala.com/digikala-products/ecb5212b2ce5daf45fed2c885fb825488c3ea553_1750950375.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        },
+        {
+          "id": 171,
+          "image": "https://dkstatics-public.digikala.com/digikala-products/aea85b122feb846540848b050d8086a0699d1e31_1734977739.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        },
+        {
+          "id": 172,
+          "image": "https://dkstatics-public.digikala.com/digikala-products/7cd68aa3bf89f2426240538fac4a728769e9a04c_1737537082.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+        }
+      ]
+    }
+  ],
+  "select": [
+    {
+      "id": 173,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/ec50f8fceb6cae8dfc97d633efe31dd2066a3bb5_1752179166.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۱۱۰,۰۰۰",
+      "off": "۱,۰۰۰,۰۰۰",
+      "offer": "۸۹"
+    },
+    {
+      "id": 174,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/04f06c4187158eba575f65d7149d7a9001f51322_1746119172.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۱۲۱,۰۰۰",
+      "off": "۱,۱۰۰,۰۰۰",
+      "offer": "۸۹"
+    },
+    {
+      "id": 175,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/91fa40dfec4bbc493900eaf2c1235d548b7f408d_1752179698.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۱۱۰,۰۰۰",
+      "off": "۱,۰۰۰,۰۰۰",
+      "offer": "۸۹"
+    },
+    {
+      "id": 176,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/ec50f8fceb6cae8dfc97d633efe31dd2066a3bb5_1752179166.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۱۲۱,۰۰۰",
+      "off": "۱,۱۰۰,۰۰۰",
+      "offer": "۸۹"
+    },
+    {
+      "id": 177,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c0e079b958167bd0fdef1f0e12440e7fed29b1bd_1727853611.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۷۲,۹۹۹,۹۰۰",
+      "off": "۸۳,۰۰۰,۰۰۰",
+      "offer": "۱۲"
+    },
+    {
+      "id": 178,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/502fc205b86801cae91a7c8099617beb2ccf0fb4_1753810138.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۱۳,۶۴۰,۰۰۰",
+      "off": "۱۵,۵۰۰,۰۰۰",
+      "offer": "۱۲"
+    },
+    {
+      "id": 179,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/85c9e6119c164f864cc648a729300c9d4a364f66_1737983289.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۱۳,۹۲۰,۰۰۰",
+      "offer": "۲۷"
+    },
+    {
+      "id": 180,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/502fc205b86801cae91a7c8099617beb2ccf0fb4_1753810138.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۱۱,۴۶۹,۹۰۰",
+      "offer": "۱۲"
+    },
+    {
+      "id": 181,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/7d7bb3073e9d227eaf8f9c2d4fd105038f3eade5_1747002495.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۲۰۳,۵۰۰",
+      "off": "۱,۸۵۰,۰۰۰",
+      "offer": "۸۹"
+    },
+    {
+      "id": 182,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/095f4249fc87ee8bc6f07c2042c9f034c9247685_1737663816.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۴۱۸,۰۰۰",
+      "off": "۳,۸۰۰,۰۰۰",
+      "offer": "۸۹"
+    },
+    {
+      "id": 183,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/757dfd093b9b56f891d7c03e1d59a6890480114e_1640979471.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۱۸۷,۵۰۰",
+      "off": "۱,۲۵۰,۰۰۰",
+      "offer": "۸۵"
+    },
+    {
+      "id": 184,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/ff793da482096f5d6d0379286b73825940427d61_1740934976.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۳۶۰,۰۰۰",
+      "off": "۲,۴۰۰,۰۰۰",
+      "offer": "۸۵"
+    },
+    {
+      "id": 185,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/ee93b0fbd85934f08900b7baa34356c02dba0cb8_1708790772.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۷۲,۳۰۰,۰۰۰",
+      "off": "۹۹,۶۰۰,۰۰۰",
+      "offer": "۲۷"
+    },
+    {
+      "id": 186,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/ee93b0fbd85934f08900b7baa34356c02dba0cb8_1709470962.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۷۶,۷۰۰,۰۰۰",
+      "off": "۱۰۲,۵۰۰,۰۰۰",
+      "offer": "۲۵"
+    },
+    {
+      "id": 187,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/6ac95f2a849d0ce48f3bc30bf02794b0c24eaafe_1735154334.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۸۲,۰۰۰,۰۰۰",
+      "off": "۱۰۵,۰۰۰,۰۰۰",
+      "offer": "۲۲"
+    },
+    {
+      "id": 189,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1e5e4a3e3e64b2cf26e1d7054ca40ea7ac57c66b_1753685875.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۶۸,۹۹۰,۰۰۰",
+      "off": "۸۸,۰۰۰,۰۰۰",
+      "offer": "۲۲"
+    },
+    {
+      "id": 190,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/35bc7e1aea2c03db5e6e757f77f381c1d8cef29a_1746875791.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۶۳,۰۰۰",
+      "off": "۱۷۸,۰۰۰",
+      "offer": "۶۵"
+    },
+    {
+      "id": 191,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4aec2a9b05522daac5bbdeed47b820bb091509a7_1746834556.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۶۳,۰۰۰",
+      "off": "۱۷۸,۰۰۰",
+      "offer": "۶۵"
+    }
+  ],
+  "bestsell2": [
+    {
+      "id": 192,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/777f2da14357fe8c22d2e7c5bd5c283a96816061_1734624763.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۱",
+      "texet": "درجه تنظیم باد لاستیک ..."
+    },
+
+    {
+      "id": 193,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4520a5817054502288beaa3b32591caab2913fc6_1747045886.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۴",
+      "texet": "پودر پروتئین وی صد در صد ..."
+    },
+
+    {
+      "id": 194,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/05ba7cce20da94b433d93caed1b4881ec9e7ab6d_1743267999.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۷",
+      "texet": "ادو پرفیوم مردانه ژاورو مدل پاکو را..."
+    },
+
+    {
+      "id": 195,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/07452e880323b7c419bd9a833f61c9dcd4d21a2a_1747916491.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۱۰",
+      "texet": "لپ تاپ 15.6 اینچی ایسوس... TUF "
+    },
+
+    {
+      "id": 196,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/19a43492809942800d77a97a8bd41a91fe89f3a7_1738144890.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۱۳",
+      "texet": "گوشی موبایل آنر مدل X5b...  "
+    },
+
+    {
+      "id": 197,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/a600f5264f516b2f9bb628475751c90128aa3a6a_1753021054.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۱۶",
+      "texet": "مانیتور گیمینگ 24 اینچ ایسوس مدل..."
+    },
+
+    {
+      "id": 198,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c8d8912c7641b280d7ca8da0ad1f560b915cdef2_1752135912.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۲",
+      "texet": "پاوربانک آیرنج  "
+    },
+
+    {
+      "id": 199,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/7af760a29c383783f1a78cc051e6766d8e152dd0_1741629101.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۵",
+      "texet": "پتو مسافرتی شایسته مدل فایپکو..."
+    },
+
+    {
+      "id": 200,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/483c984ed3fed99622b7f63ce1808f2ed52dd16a_1657995196.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۸",
+      "texet": "ست 3 تکه لباس نوزادی مدل M328"
+    },
+
+    {
+      "id": 201,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/d372e7fef9d21a15bf32df0ed4f30741c9df324a_1739891891.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۱۱",
+      "texet": "سرویس پخت و پز 8 پارچه  استیل  "
+    },
+
+    {
+      "id": 202,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/f43784c8f3aabe894dbfe46e13c79e5c928bcedf_1704551941.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۱۴",
+      "texet": "دریل پیچ گوشتی شارژی چکشی با..."
+    },
+
+    {
+      "id": 203,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/10ba2718c66fb9b8d6a5e0ebc64827de8fe3bf46_1749201506.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۱۷",
+      "texet": "مینی پرینتر حرارتی ناب سل مدل ..."
+    },
+
+    {
+      "id": 204,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0db6dd0a7219f95c844972ced57fa2c581847dfc_1737452108.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۳",
+      "texet": "اسپیکر بلوتوثی قابل حمل هیسکا مدل..."
+    },
+
+    {
+      "id": 205,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/40eedf143adbdb408ed3f2f068ac3128a3059ad2_1730799247.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۶",
+      "texet": "سرویس قاشق و چنگال 142 پارچه ..."
+    },
+
+    {
+      "id": 206,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/a727587e3b5a9375d8a5da311d0eb44747e55e67_1702303206.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۹",
+      "texet": "خنک کننده گوشی "
+    },
+
+    {
+      "id": 207,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/53c2de6b9d74ab7225cc12d018fedc2d6070ffa0_1740837226.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۱۲",
+      "texet": "هدفون بلوتوثی لوکسار مدل V8"
+    },
+
+    {
+      "id": 208,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/ac15cfa0ea9939c82d81b25c375ccf74b53274c2_1749582147.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۱۵",
+      "texet": "دریل چکشی رونیکس مدل..."
+    },
+
+    {
+      "id": 209,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/5f4d02436664926f3dcfb4d9942c82c2a8a0e154_1738676290.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80",
+      "tex": "۱۸",
+      "texet": "پنکه ارشیا مدل SF-155-2506"
+    }
+  ],
+  "news": [
+    {
+      "id": 210,
+      "image": "https://www.digikala.com/mag/wp-content/uploads/2025/07/best-pills-for-hair-growth-and-thickness-1.jpg",
+      "tex": "بهترین قرص برای پرپشت شدن مو؛ برترین مکمل‌ها در بازار"
+    },
+    {
+      "id": 211,
+      "image": "https://www.digikala.com/mag/wp-content/uploads/2025/07/%D8%AF%D8%B1%D9%85%D8%A7%D9%86_%DA%A9%D9%85_%D8%AE%D9%88%D9%86%DB%8C_%D8%AF%D8%B1_%D8%AE%D8%A7%D9%86%D9%87.jpg",
+      "tex": "درمان کم‌خونی با روش خانگی؛ بدون قرص، بدون عوارض"
+    },
+    {
+      "id": 212,
+      "image": "https://www.digikala.com/mag/wp-content/uploads/2025/07/LEGO_Gameboy.jpg",
+      "tex": "گیم‌بوی لگویی پاییز امسال عرضه می‌شود"
+    },
+    {
+      "id": 213,
+      "image": "https://www.digikala.com/mag/wp-content/uploads/2025/07/%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%A7%D8%B3%D9%86%D9%88%D8%A7.jpg",
+      "tex": "هک تلویزیون اسنوا و دوو؛ بررسی شایعه‌ها و راهنمای تعمیر اورژانسی"
+    }
+  ],
+  "footer": [
+    {
+      "id": 214,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY7TFELg6aZqS7-UzP7ZCsXWAtDlZKvSFV2w&s",
+      "tex": "تماس با پشتیبانی",
+      "texs": "۷ روز هفته، ۲۴ ساعت",
+      "call": "تماس"
+    },
+    {
+      "id": 215,
+      "image": "https://www.digikala.com/statics/img/png/Logo.webp",
+      "tex": "اپلیکیشن دیجی‌کالا",
+      "texs": "تجربه خرید بهتر در",
+      "call": "دانلود"
+    }
+  ],
+  "about": [
+    {
+      "id": 216,
+      "tex": "با دیجی‌کالا",
+      "links": [
+        {
+          "title": "اتاق خبر دیجی‌کالا"
+        },
+        {
+          "title": "فروش در دیجی‌کالا"
+        },
+        {
+          "title": "فرصت‌های شغلی"
+        },
+        {
+          "title": "گزارش تخلف در دیجی‌کالا"
+        },
+        {
+          "title": "تماس با دیجی‌کالا"
+        },
+        {
+          "title": "درباره دیجی‌کالا"
+        }
+      ]
+    },
+    {
+      "id": 217,
+      "tex": "خدمات مشتریان",
+      "links": [
+        {
+          "title": "پاسخ به پرسش‌های متداول"
+        },
+        {
+          "title": "رویه‌های بازگرداندن کالا"
+        },
+        {
+          "title": "شرایط استفاده"
+        },
+        {
+          "title": "حریم خصوصی"
+        },
+        {
+          "title": "گزارش باگ"
+        }
+      ]
+    },
+    {
+      "id": 218,
+      "tex": "راهنمای خرید از دیجی‌کالا",
+      "links": [
+        {
+          "title": "نحوه ثبت سفارش"
+        },
+        {
+          "title": "رویه ارسال سفارش"
+        },
+        {
+          "title": "شیوه‌های پرداخت"
+        }
+      ]
+    }
+  ],
+  "belive": [
+    {
+      "id": 219,
+      "image": "https://www.digikala.com/statics/img/svg/footer/express-delivery.svg",
+      "tex": " اﻣﮑﺎن ﺗﺤﻮﯾﻞ اﮐﺴﭙﺮس"
+    },
+    {
+      "id": 220,
+      "image": "https://www.digikala.com/statics/img/svg/footer/cash-on-delivery.svg",
+      "tex": "امکان پرداخت در محل"
+    },
+    {
+      "id": 221,
+      "image": "https://www.digikala.com/statics/img/svg/footer/support.svg",
+      "tex": " ۷ روز ﻫﻔﺘﻪ، ۲۴ ﺳﺎﻋﺘﻪ"
+    },
+    {
+      "id": 222,
+      "image": "https://www.digikala.com/statics/img/svg/footer/days-return.svg",
+      "tex": "هفت روز ضمانت بازگشت کالا"
+    },
+    {
+      "id": 223,
+      "image": "https://www.digikala.com/statics/img/svg/footer/original-products.svg",
+      "tex": "ﺿﻤﺎﻧﺖ اﺻﻞ ﺑﻮدن ﮐﺎﻟﺎ"
+    }
+  ],
+  "app": [
+    {
+      "id": 224,
+      "image": "https://www.digikala.com/statics/img/svg/appStores/coffe-bazzar.svg"
+    },
+    {
+      "id": 225,
+      "image": "https://www.digikala.com/statics/img/svg/appStores/myket.svg"
+    },
+    {
+      "id": 226,
+      "image": "https://www.digikala.com/statics/img/svg/appStores/sib-app.svg"
+    }
+  ],
+  "etemad": [
+    {
+      "id": 227,
+      "image": "https://www.digikala.com/statics/img/png/sapra.webp"
+    },
+    {
+      "id": 228,
+      "image": "https://www.digikala.com/statics/img/png/rezi.webp"
+    },
+    {
+      "id": 229,
+      "image": "https://www.digikala.com/statics/img/png/rezi.webp"
+    }
+  ],
+  "branddigi": [
+    {
+      "id": 230,
+      "image": "https://www.digikala.com/statics/img/svg/footer/digimag.svg"
+    },
+    {
+      "id": 231,
+      "image": "https://www.digikala.com/statics/img/svg/footer/digipay.svg"
+    },
+    {
+      "id": 232,
+      "image": "https://www.digikala.com/statics/img/svg/footer/digistyle.svg"
+    },
+    {
+      "id": 233,
+      "image": "https://www.digikala.com/statics/img/svg/footer/digiplus.svg"
+    },
+    {
+      "id": 234,
+      "image": "https://www.digikala.com/statics/img/svg/footer/digiclub.svg"
+    },
+    {
+      "id": 235,
+      "image": "https://www.digikala.com/statics/img/svg/footer/jet.svg"
+    },
+    {
+      "id": 236,
+      "image": "https://www.digikala.com/statics/img/svg/footer/digiMehr.svg"
+    },
+    {
+      "id": 237,
+      "image": "https://www.digikala.com/statics/img/svg/footer/diginext.svg"
+    }
+  ],
+  "branddigi2": [
+    {
+      "id": 238,
+      "image": "https://www.digikala.com/statics/img/svg/footer/digiexpress.svg"
+    },
+    {
+      "id": 239,
+      "image": "https://www.digikala.com/statics/img/svg/footer/ganjeh.svg"
+    },
+    {
+      "id": 240,
+      "image": "https://www.digikala.com/statics/img/svg/footer/digify.svg"
+    },
+    {
+      "id": 241,
+      "image": "https://www.digikala.com/statics/img/svg/footer/digikala-service.svg"
+    }
+  ],
+  "mega": [
+    {
+      "id": 242,
+      "image": "https://www.svgrepo.com/show/533119/mobile.svg",
+      "tex": "موبایل",
+      "columns": [
+        {
+          "title": "انتخاب موبایل",
+          "items": [
+            "آیفون 16 پرو مکس",
+            "آیفون 16 پرو ",
+            "آیفون 16",
+            "آیفون 15",
+            "آیفون 14",
+            "آیفون 13",
+            "آیفون 12"
+          ]
+        },
+        {
+          "title": "گوشی براساس قیمت",
+          "items": [
+            "گوشی ارزان",
+            "گوشی موبایل قسطی",
+            "گوشی تا ۲ میلیون تومان",
+            "گوشی تا ۵ میلیون تومان",
+            "گوشی تا ۷ میلیون تومان",
+            "گوشی تا ۱۰ میلیون تومان",
+            "گوشی تا ۱۲ میلیون تومان",
+            "گوشی تا ۱۵ میلیون تومان",
+            "گوشی تا ۲۰ میلیون تومان",
+            "گوشی تا ۲۵ میلیون تومان",
+            "گوشی تا ۳۰ میلیون تومان",
+            "گوشی تا ۵۰ میلیون تومان"
+          ]
+        },
+        {
+          "title": "لوازم جانبی موبایل",
+          "items": [
+            "شارژر گوشی",
+            "شارژر وایرلس",
+            "شارژر تایپ سی",
+            "کابل شارژ تایپ سی",
+            "قاب گوشی",
+            "گلس گوشی",
+            "شارژر فندکی",
+            "هولدر گوشی موبایل",
+            "کابل شارژ و مبدل",
+            "پاوربانک (شارژر همراه)",
+            "مونوپاد",
+            "کاور ایرپاد",
+            "هولدر گردنی",
+            "فن خنک کننده گوشی"
+          ]
+        },
+        {
+          "title": "داغ‌ترین‌ها",
+          "items": [
+            "گوشی S25 سامسونگ",
+            "شیائومی نوت ۱۴",
+            "ردمی نوت ۱۴ پرو",
+            "ردمی نوت ۱۴ پرو پلاس",
+            "آیفون ۱۳",
+            "گوشی سامسونگ سری s",
+            "گوشی سامسونگ سری a",
+            "گوشی سامسونگ سری ",
+            "موبایل اصفهان",
+            "داریا باند 5G",
+            "گلکسی S23 Ultra",
+            "گلکسی S23 FE",
+            "پوکو x7 پرو",
+            "گلکسی A56"
+          ]
+        },
+        {
+          "title": "برندهای مختلف گوشی موبایل",
+          "items": [
+            "گوشی سامسونگ",
+            "گوشی شیائومی",
+            "گوشی نوکیا",
+            "گوشی ریلمی",
+            "گوشی آنر",
+            "گوشی ناتینگ فون",
+            "گوشی وکال",
+            "گوشی ردتون",
+            "گوشی تی سی ال",
+            "گوشی هواوی",
+            "گوشی داریا",
+            "گوشی گوگل پیکسل",
+            "گوشی جی ال ایکس",
+            "گوشی آلکاتل",
+            "گوشی وان پلاس",
+            "گوشی‌های جنرال لوکس",
+            "گوشی موبایل دوجی",
+            "گوشی HMD",
+            "گوشی پوکو",
+            "گوشی بلک ویو",
+            "گوشی ریلمی"
+          ]
+        },
+        {
+          "title": "گوشی براساس عملکرد",
+          "items": [
+            "گوشی گیمینگ",
+            "گوشی 5G",
+            "گوشی دکمه‌ای",
+            "گوشی ضد آب",
+            "گوشی مناسب عکاسی",
+            "گوشی میان رده",
+            "گوشی دانش آموزی",
+            "گوشی پرچمدار",
+            "گوشی دو سیمکارت"
+          ]
+        },
+        {
+          "title": "داغ‌ترین‌ها",
+          "items": [
+            "گوشی S25 سامسونگ",
+            "شیائومی نوت ۱۴",
+            "ردمی نوت ۱۴ پرو",
+            "ردمی نوت ۱۴ پرو پلاس",
+            "آیفون ۱۳",
+            "گوشی سامسونگ سری s",
+            "گوشی سامسونگ سری a",
+            "گوشی سامسونگ سری ",
+            "موبایل اصفهان",
+            "داریا باند 5G",
+            "گلکسی S23 Ultra",
+            "گلکسی S23 FE",
+            "پوکو x7 پرو",
+            "گلکسی A56"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "image": "https://www.svgrepo.com/show/454737/computer-device-digital-8.svg",
+      "tex": "لپ تاپ",
+      "columns": [
+        {
+          "title": "انتخاب لپ تاپ",
+          "items": [
+            "انتخاب لپ تاپ",
+            "لپ تاپ ایسوس",
+            "لپ تاپ vivobook",
+            "لپ تاپ Zenbook",
+            "لپ تاپ TUF Gaming",
+            "لپ تاپ ROG",
+            "لپ تاپ لنوو",
+            "لپ تاپ v15",
+            "لپ تاپ ideapad 1",
+            "لپ تاپ ideapad slim 3",
+            "لپ تاپ LOQ",
+            "مک بوک",
+            "مک بوک ایر m1",
+            "مک بوک ایر m2",
+            "مک بوک ایر m3",
+            "مک بوک ایر m4",
+            "مک بوک پرو m3",
+            "مک بوک پرو m4",
+            "لپ تاپ سرفیس",
+            "سرفیس لپ تاپ ۵",
+            "سرفیس لپ تاپ ۶",
+            "سرفیس لپ تاپ ۷",
+            "سرفیس لپ تاپ استودیو ۲",
+            "سایر برند های لپ تاپ",
+            "لپ تاپ hp",
+            "لپ تاپ دل",
+            "لپ تاپ ایسر",
+            "لپ تاپ msi"
+          ]
+        },
+        {
+          "title": "براساس برند پردازنده",
+          "items": [
+            "لپ تاپ با پردازنده intel",
+            "لپ تاپ با پردازنده amd",
+            "لپ تاپ با پردازنده snapdragon",
+            "لپ تاپ با پردازنده celeron"
+          ]
+        },
+        {
+          "title": "براساس سری پردازنده اینتل",
+          "items": [
+            "لپ تاپ core ultra 9",
+            "لپ تاپ core ultra 7",
+            "لپ تاپ core ultra 5",
+            "لپ تاپ core i9",
+            "لپ تاپ core i7",
+            "لپ تاپ core i5",
+            "لپ تاپ core i3"
+          ]
+        },
+        {
+          "title": "براساس نسل پردازنده اینتل",
+          "items": ["لپ تاپ نسل 14", "لپ تاپ نسل 13", "لپ تاپ نسل 12"]
+        },
+        {
+          "title": "براساس ظرفیت حافظه RAM",
+          "items": [
+            "لپ تاپ با رم 64",
+            "لپ تاپ با رم 32",
+            "لپ تاپ با رم 16",
+            "لپ تاپ با رم 12",
+            "لپ تاپ با رم 8"
+          ]
+        },
+        {
+          "title": "براساس نوع حافظه RAM",
+          "items": ["لپ تاپ با رم DDR5", "لپ تاپ با رم DDR4"]
+        },
+        {
+          "title": "لپ تاپ گیمینگ",
+          "items": [
+            "لپ تاپ گیمینگ ایسوس",
+            "لپ تاپ گیمینگ لنوو",
+            "لپ تاپ گیمینگ acer",
+            "لپ تاپ گیمینگ hp",
+            "لپ تاپ گیمینگ msi"
+          ]
+        },
+        {
+          "title": "براساس مدل کارت گرافیک",
+          "items": [
+            "لپ تاپ rtx 2050",
+            "لپ تاپ rtx 3050",
+            "لپ تاپ rtx 3060",
+            "لپ تاپ rtx 4050",
+            "لپ تاپ rtx 4060",
+            "لپ تاپ rtx 4070",
+            "لپ تاپ rtx 4080",
+            "لپ تاپ rtx 4090"
+          ]
+        },
+        {
+          "title": "براساس ظرفیت کارت گرافیک",
+          "items": [
+            "لپ تاپ با گرافیک ۲",
+            "لپ تاپ با گرافیک ۴",
+            "لپ تاپ با گرافیک ۶",
+            "لپ تاپ با گرافیک ۸",
+            "لپ تاپ با گرافیک ۱۲",
+            "لپ تاپ با گرافیک ۱۶"
+          ]
+        },
+        {
+          "title": "براساس نرخ نوسازی صفحه نمایش",
+          "items": [
+            "لپ تاپ 120 هرتز",
+            "لپ تاپ 144 هرتز",
+            "لپ تاپ 165 هرتز",
+            "لپ تاپ 240 هرتز"
+          ]
+        },
+        {
+          "title": "براساس رزولوشن صفحه نمایش",
+          "items": ["لپ تاپ 4K", "لپ تاپ QHD", "لپ تاپ FULL HD"]
+        },
+        {
+          "title": "براساس قیمت",
+          "items": [
+            "لپ تاپ تا ۱۵ میلیون",
+            "لپ تاپ تا ۲۰ میلیون",
+            "لپ تاپ تا ۲۵ میلیون",
+            "لپ تاپ تا ۳۰ میلیون",
+            "لپ تاپ تا ۳۵ میلیون",
+            "لپ تاپ تا ۴۰ میلیون",
+            "لپ تاپ تا ۴۵ میلیون",
+            "لپ تاپ تا ۵۰ میلیون",
+            "لپ تاپ تا ۶۰ میلیون",
+            "لپ تاپ تا ۷۰ میلیون",
+            "لپ تاپ تا ۸۰ میلیون",
+            "لپ تاپ تا ۹۰ میلیون",
+            "لپ تاپ تا ۱۰۰ میلیون"
+          ]
+        },
+        {
+          "title": "براساس کاربری",
+          "items": [
+            "لپ تاپ گیمینگ",
+            "لپ تاپ لمسی",
+            "لپ تاپ سبک",
+            "لپ تاپ مالتی مدیا"
+          ]
+        },
+        {
+          "title": "لوازم جانبی لپ تاپ",
+          "items": [
+            "کول پد",
+            "کیف لپ تاپ",
+            "شارژر لپ تاپ",
+            "ماوس",
+            "ماوس پد",
+            "استیکر لپ تاپ",
+            "اسکین لپ تاپ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "image": "https://www.svgrepo.com/show/454737/computer-device-digital-8.svg",
+      "tex": "کالای دیجیتال",
+      "columns": [
+        {
+          "title": "کنسول بازی و لوازم جانبی",
+          "items": [
+            "ps5",
+            "ps5 slim",
+            "ps5 pro",
+            "ps4",
+            "xbox",
+            "gamestick",
+            "نintendo switch",
+            "دسته بازی",
+            "فرمان بازی",
+            "صندلی گیمینگ",
+            "ست گیمینگ",
+            "دیسک های بازی",
+            "بازی ps5",
+            "بازی ps4",
+            "بازی ایکس باکس ۳۶۰",
+            "بازی pc"
+          ]
+        },
+        {
+          "title": "تبلت و تجهیزات جانبی",
+          "items": [
+            "تبلت",
+            "تبلت سامسونگ",
+            "تبلت شیائومی",
+            "تبلت نارتب",
+            "سرفیس",
+            "سرفیس پرو ۸",
+            "سرفیس پرو ۹",
+            "سرفیس پرو ۱۰",
+            "سرفیس پرو ۱۱",
+            "ایپد",
+            "ایپد ایر",
+            "ایپد پرو",
+            "تبلت براساس قیمت",
+            "تبلت تا 5 میلیون",
+            "تبلت تا ۱۰ میلیون",
+            "تبلت تا ۱۵ میلیون",
+            "تبلت تا ۲۰ میلیون"
+          ]
+        },
+        {
+          "title": "کامپیوتر و تجهیزات جانبی",
+          "items": [
+            "کامپیوتر",
+            "all in one",
+            "mini pc",
+            "قلم نوری",
+            "رم ریدر",
+            "ماوس پد",
+            "کیس اسمبل شده",
+            "مانیتور",
+            "مانیتور OLED"
+          ]
+        },
+        {
+          "title": "اسپیکر و هدفون",
+          "items": [
+            "اسپیکر",
+            "اسپیکر بلوتوثی",
+            "اسپیکر jbl",
+            "اسپیکر هارمن کاردن",
+            "اسپیکر سونی",
+            "اسپیکر تسکو",
+            "اسپیکر مکسیدر",
+            "اسپیکر میکرولب",
+            "پارتی باکس",
+            "هدفون",
+            "هدفون بی سیم",
+            "هدفون گیمینگ",
+            "هدفون اپل (ایرپاد)",
+            "هدفون بیتس",
+            "هدفون سونی",
+            "هدفون سامسونگ (ایربادز)",
+            "هدفون شیائومی",
+            "هدفون جی بی ال",
+            "هدفون ریزر",
+            "هدست"
+          ]
+        },
+        {
+          "title": "ساعت و مچ بند هوشمند",
+          "items": [
+            "ساعت هوشمند سامسونگ",
+            "ساعت هوشمند شیائومی",
+            "اپل واچ",
+            "بند اپل واچ",
+            "بند ساعت هوشمند",
+            "لوازم جانبی ساعت هوشمند"
+          ]
+        },
+        {
+          "title": "دوربین و تجهیزات جانبی",
+          "items": [
+            "دوربین",
+            "دوربین فیلمبرداری",
+            "دوربین کنون",
+            "دوربین سونی",
+            "دوربین چاپ سریع",
+            "دوربین کامپکت",
+            "دوربین dslr",
+            "رینگ لایت",
+            "پایه دوربین",
+            "لنز دوربین",
+            "کارت حافظه"
+          ]
+        },
+        {
+          "title": "ذخیره‌سازی و باتری",
+          "items": [
+            "تجهیزات ذخیره‌سازی اطلاعات",
+            "هارد ssd",
+            "هارد اینترنال",
+            "هارد اکسترنال",
+            "هارد اکسترنال ssd",
+            "فلش",
+            "فلش ۲۵۶ گیگ",
+            "فلش ۱۲۸ گیگ",
+            "فلش ۶۴ گیگ",
+            "فلش ۳۲ گیگ",
+            "فلش ۱۶ گیگ",
+            "پاور بانک",
+            "فست شارژ",
+            "پاور بانک شیائومی",
+            "پاور بانک انکر",
+            "پاور بانک اپل",
+            "پاور بانک سامسونگ",
+            "پاور بانک انرجایزر",
+            "باتری",
+            "باتری لیتیومی",
+            "باتری قلمی"
+          ]
+        },
+        {
+          "title": "پرینتر و ماشین‌های اداری",
+          "items": [
+            "پرینتر",
+            "پرینتر سه بعدی",
+            "پرینتر حرارتی",
+            "پرینتر رنگی",
+            "پرینتر لیبل زن",
+            "پرینتر اچ پی",
+            "ماشین‌های اداری",
+            "کابل پرینتر",
+            "کارتریج",
+            "اسکنر"
+          ]
+        },
+        {
+          "title": "تجهیزات شبکه و ارتباطات",
+          "items": [
+            "تلفن",
+            "بارکدخوان",
+            "ویدئو وال",
+            "ویدئو پروژکتور",
+            "دستگاه حضور و غیاب",
+            "پیجر و سیستم نوبت دهی",
+            "تجهیزات شبکه و ارتباطات",
+            "هاب USB",
+            "سوییچ",
+            "هاب سوئیچ",
+            "تجهیزات ویدئویی",
+            "کارت شبکه",
+            "کامپیوتر سرور",
+            "رک شبکه و سرور",
+            "پچ پنل",
+            "پرینت سرور",
+            "آداپتور شبکه",
+            "اسپلیتر",
+            "کابل شبکه (LAN)",
+            "کابل cat6",
+            "کابل کمبو",
+            "کارت و ماژول",
+            "لوازم جانبی NAS و سرور",
+            "ذخیره ساز تحت شبکه (NAS)",
+            "یو پی اس (UPS)",
+            "ابزار شبکه",
+            "آنتن تقویتی",
+            "مبدل فیبر نوری",
+            "سیم آنتن",
+            "مودم",
+            "مودم جیبی",
+            "مودم ایرانسل",
+            "مودم همراه اول",
+            "توسعه دهنده محدوده بی‌سیم",
+            "روتر و اکسس پوینت"
+          ]
+        },
+        {
+          "title": "تجهیزات امنیتی و نظارتی",
+          "items": [
+            "دوربین مدار بسته",
+            "پایه دوربین مدار بسته",
+            "ماکت دوربین مدار بسته"
+          ]
+        },
+        {
+          "title": "قطعات کامپیوتر و لوازم جانبی",
+          "items": [
+            "کیس کامپیوتر",
+            "قطعات کامپیوتر",
+            "پردازنده (cpu)",
+            "کارت گرافیک",
+            "مادربرد",
+            "دانگل بلوتوث",
+            "رم کامپیوتر",
+            "کیبورد",
+            "کیبورد گیمینگ",
+            "کیبورد بی سیم",
+            "کیبورد مکانیکال",
+            "ماوس",
+            "ماوس گیمینگ",
+            "ماوس بی سیم"
+          ]
+        },
+        {
+          "title": "خانه هوشمند",
+          "items": [
+            "نور و روشنایی هوشمند",
+            "کلید و پریز هوشمند",
+            "سنسور هوشمند",
+            "هاب و دستیار صوتی هوشمند",
+            "جارو هوشمند (رباتیک)"
+          ]
+        },
+        {
+          "title": "برندهای برتر",
+          "items": [
+            "شیائومی",
+            "سامسونگ",
+            "اپل",
+            "هواوی",
+            "آنر",
+            "ریلمی",
+            "توشیبا",
+            "تکنو",
+            "ایرانسل",
+            "مبین نت",
+            "نینتندو",
+            "بیتس",
+            "جی بی ال",
+            "وان مور",
+            "تی پی لینک",
+            "دی لینک",
+            "کیو سی وای"
+          ]
+        },
+        {
+          "title": "داغ ترین ها و موضوعات گیمینگ",
+          "items": ["داغ ترین ها", "گیمینگ", "هدفون گربه ای", "فیفا"]
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "image": "https://www.svgrepo.com/show/525003/sofa.svg",
+      "tex": "خانه و آشپزخانه",
+      "columns": [
+        {
+          "title": "ظروف پخت و پز و آشپزخانه",
+          "items": [
+            "ظروف پخت و پز",
+            "قابلمه و تابه",
+            "زودپز",
+            "سرویس پخت و پز",
+            "ابزار آشپزی",
+            "ست کفگیر و ملاقه",
+            "چاقو",
+            "تخته گوشت",
+            "ظرف و قالب یخ",
+            "قیف",
+            "صافی",
+            "گردو شکن",
+            "فندک آشپزخانه",
+            "ترازوی آشپزخانه"
+          ]
+        },
+        {
+          "title": "تهیه و سرو چای و قهوه",
+          "items": [
+            "قهوه ساز و دمنوش ساز",
+            "سماور",
+            "شیر جوش - قهوه جوش",
+            "قوری",
+            "کتری و قوری",
+            "فیلتر چای"
+          ]
+        },
+        {
+          "title": "ظروف و نگهداری آشپزخانه",
+          "items": [
+            "ظروف آشپزخانه",
+            "آبکش و آبگیر",
+            "بطری",
+            "ارگانایزر آشپزخانه",
+            "جای ادویه",
+            "بانکه و ظروف بنشن",
+            "شکر پاش و نمک پاش",
+            "سبد آشپزخانه",
+            "سبد سیب زمینی و پیاز",
+            "ظرف نگهدارنده",
+            "سایر ظروف"
+          ]
+        },
+        {
+          "title": "لوازم تهیه کیک و دسر",
+          "items": ["لوازم تهیه کیک و دسر"]
+        },
+        {
+          "title": "سرو و پذیرایی",
+          "items": [
+            "سفره",
+            "ماگ",
+            "سینی",
+            "لیوان",
+            "بشقاب",
+            "قندان",
+            "پارچ و بطری",
+            "بستنی خوری",
+            "سس خوری و آبلیمو خوری",
+            "کاسه و پیاله",
+            "کلمن و فلاسک",
+            "ظروف سرو و پذیرایی",
+            "سرویس غذاخوری",
+            "قاشق، چنگال و کارد",
+            "زیر لیوانی، زیر بشقابی و زیر قابلمه ای",
+            "ابزار مهمانی"
+          ]
+        },
+        {
+          "title": "منسوجات آشپزخانه",
+          "items": [
+            "دستگیره",
+            "پیش بند",
+            "کیسه نان و سبزی",
+            "دستمال نظافت خانه و آشپزخانه"
+          ]
+        },
+        {
+          "title": "مبلمان و نشیمن",
+          "items": [
+            "مبل",
+            "مبل راحتی",
+            "مبل تختخواب شو",
+            "مبل بادی",
+            "مبل تدی",
+            "مبل ال",
+            "مبل مینیمال",
+            "مبل چستر",
+            "مبل اداری و صندلی انتظار",
+            "پاف و بین بگ",
+            "صندلی کودک"
+          ]
+        },
+        {
+          "title": "دکوراسیون خانگی",
+          "items": [
+            "کتابخانه",
+            "شلف و طبقه",
+            "کنسول",
+            "صندلی",
+            "میز ناهارخوری",
+            "مبلمان و دکوراسیون اداری",
+            "صندلی اداری",
+            "میز اداری"
+          ]
+        },
+        {
+          "title": "نگهدارنده لباس و لوازم",
+          "items": [
+            "رگال لباس",
+            "کمد لباس و ارگانایزر",
+            "جاکفشی",
+            "جالباسی",
+            "کاور لوازم خانگی"
+          ]
+        },
+        {
+          "title": "دکوراتیو",
+          "items": [
+            "مجسمه و تندیس",
+            "ساعت",
+            "عود",
+            "شمع",
+            "شمعدان",
+            "دیوارکوب",
+            "اسماج",
+            "گل و گلدان",
+            "آینه دکوراتیو",
+            "قاب عکس و تابلو",
+            "تابلو",
+            "قاب عکس",
+            "تابلو شاسی"
+          ]
+        },
+        {
+          "title": "کوسن، رومیزی و شال مبل",
+          "items": ["رومیزی", "کوسن", "شال مبل و تخت"]
+        },
+        {
+          "title": "کفپوش و دیوارپوش",
+          "items": [
+            "پوستر و کاغذ دیواری",
+            "پارکت",
+            "استیکر و پوستر",
+            "پرده",
+            "ملزومات پرده"
+          ]
+        },
+        {
+          "title": "نور و روشنایی",
+          "items": ["آباژور", "لوستر", "لامپ و چراغ"]
+        },
+        {
+          "title": "فرش و گلیم",
+          "items": [
+            "فرش",
+            "موکت",
+            "تابلو فرش",
+            "پادری",
+            "روفرشی",
+            "گل و گیاه",
+            "گل آپارتمانی",
+            "دسته گل",
+            "سبد گل",
+            "فرش ماشینی، دستبافت، تابلو"
+          ]
+        },
+        {
+          "title": "حمام و سرویس بهداشتی",
+          "items": [
+            "حوله",
+            "دمپایی",
+            "لیف",
+            "پرده حمام",
+            "وان و جکوزی",
+            "ابزار حمام",
+            "سرویس بهداشتی",
+            "توالت فرنگی",
+            "ست سرویس بهداشتی",
+            "روشویی",
+            "جامسواکی",
+            "آینه سرویس بهداشتی",
+            "فلاش تانک",
+            "مخزن مایع دستشویی",
+            "پایه رول دستمال",
+            "توالت ایرانی",
+            "آفتابه"
+          ]
+        },
+        {
+          "title": "خواب و ملزومات خواب",
+          "items": [
+            "لحاف",
+            "روتختی",
+            "سرویس خواب",
+            "ملحفه",
+            "بالش",
+            "تشک",
+            "رو بالشی",
+            "تشک خوشخواب",
+            "پتو"
+          ]
+        },
+        {
+          "title": "شستشو و نظافت",
+          "items": ["سطل", "تی (زمین شوی)", "فرچه", "جارو و خاک انداز"]
+        },
+        {
+          "title": "نظافت لباس",
+          "items": [
+            "پرزگیر لباس",
+            "گیره لباس",
+            "کاور پوشاک",
+            "کیسه وکیوم",
+            "سبد رخت چرک",
+            "بند رخت",
+            "میز اتو",
+            "لوازم جانبی اتو"
+          ]
+        },
+        {
+          "title": "پت شاپ",
+          "items": [
+            "بهداشت و مراقبت حیوانات",
+            "آموزش و سرگرمی حیوانات",
+            "لانه حیوانات",
+            "غذا مکمل حیوانات",
+            "لوازم آبزیان"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "image": "https://www.svgrepo.com/show/206948/refrigerator-freezer.svg",
+      "tex": "جهیزیه و لوازم خانگی",
+      "columns": [
+        {
+          "title": "تهویه، سرمایش و گرمایش",
+          "items": [
+            "کولر گازی",
+            "کولر آبی",
+            "پنکه",
+            "پنکه شارژی",
+            "تصفیه کننده هوا",
+            "بخاری برقی",
+            "پکیج دیواری و رادیاتور",
+            "بخاری",
+            "شوفاژ برقی",
+            "آبگرمکن"
+          ]
+        },
+        {
+          "title": "نظافت و جاروبرقی",
+          "items": [
+            "جاروبرقی",
+            "جارو شارژی",
+            "لوازم جانبی جاروبرقی و بخارشور",
+            "جارو رباتیک"
+          ]
+        },
+        {
+          "title": "ماشین لباسشویی و ظرفشویی",
+          "items": [
+            "ماشین لباسشویی",
+            "ماشین لباسشویی دوو",
+            "ماشین لباسشویی پاکشوما",
+            "ماشین لباسشویی اسنوا",
+            "مینی واش",
+            "ماشین ظرفشویی",
+            "ماشین ظرفشویی جی پلاس"
+          ]
+        },
+        {
+          "title": "صوتی و تصویری",
+          "items": [
+            "ساندبار",
+            "ویدیو پروژکتور",
+            "اندروید باکس",
+            "پخش کننده خانگی",
+            "لوازم جانبی صوتی و تصویری",
+            "ریموت کنترل"
+          ]
+        },
+        {
+          "title": "یخچال فریزر",
+          "items": [
+            "یخچال فریزر",
+            "یخچال فریزر ساید بای ساید",
+            "یخچال فریزر دوقلو",
+            "یخچال فریزر هتلی",
+            "یخچال فریزر کمبی"
+          ]
+        },
+        {
+          "title": "تلویزیون و لوازم جانبی",
+          "items": [
+            "تلویزیون",
+            "تلویزیون 4k",
+            "تلویزیون گیمینگ",
+            "تلویزیون OLED",
+            "تلویزیون QLED",
+            "تلویزیون ۱۴۴ هرتز",
+            "تلویزیون ۱۲۰ هرتز",
+            "میز تلویزیون"
+          ]
+        },
+        {
+          "title": "تلویزیون براساس سایز",
+          "items": [
+            "تلویزیون ۸۶ اینچ",
+            "تلویزیون ۸۵ اینچ",
+            "تلویزیون ۷۵ اینچ",
+            "تلویزیون ۷۰ اینچ",
+            "تلویزیون ۶۵ اینچ",
+            "تلویزیون ۶۰ اینچ",
+            "تلویزیون ۵۸ اینچ",
+            "تلویزیون ۵۵ اینچ",
+            "تلویزیون ۵۰ اینچ",
+            "تلویزیون ۴۳ اینچ",
+            "تلویزیون ۴۰ اینچ",
+            "تلویزیون ۳۲ اینچ"
+          ]
+        },
+        {
+          "title": "لوازم پخت و پز",
+          "items": [
+            "سرخ کن بدون روغن (air fryer)",
+            "مایکروویو، مایکروفر",
+            "اجاق گاز",
+            "پلوپز",
+            "ساندویچ ساز و وافل ساز",
+            "آون توستر",
+            "گریل و باربیکیو",
+            "توستر",
+            "مولتی‌کوکر و تخم‌مرغ‌پز"
+          ]
+        },
+        {
+          "title": "اتو و نظافت لباس",
+          "items": ["اتو", "اتو بخار ایستاده", "اتو بخار", "بخارگر"]
+        },
+        {
+          "title": "نوشیدنی سازها",
+          "items": [
+            "قهوه ساز",
+            "اسپرسو ساز",
+            "چای ساز",
+            "کتری برقی",
+            "سماور برقی",
+            "آبمیوه گیری",
+            "آب مرکبات گیر",
+            "آسیاب قهوه"
+          ]
+        },
+        {
+          "title": "لوازم خردکن و غذاساز",
+          "items": [
+            "چرخ خیاطی",
+            "چرخ خیاطی ژانومه",
+            "چرخ خیاطی کاچیران",
+            "خردکن و غذاساز",
+            "گوشت کوب برقی",
+            "غذاساز",
+            "همزن",
+            "مخلوط کن",
+            "چرخ گوشت",
+            "خردکن",
+            "آسیاب",
+            "بخار شو"
+          ]
+        },
+        {
+          "title": "تصفیه آب و لوازم توکار",
+          "items": [
+            "تصفیه آب",
+            "فیلتر تصفیه آب",
+            "لوازم توکار",
+            "فر",
+            "هود",
+            "گاز صفحه ای",
+            "سینک ظرفشویی"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "image": "https://www.svgrepo.com/show/529638/heart-pulse.svg",
+      "tex": "لوازم آرایشی و بهداشتی",
+      "columns": [
+        {
+          "title": "آرایش صورت",
+          "items": ["آرایش صورت", "آرایش چشم", "آرایش ابرو", "آرایش لب"]
+        },
+        {
+          "title": "بهداشت و زیبایی ناخن",
+          "items": ["بهداشت و زیبایی ناخن", "ابزار آرایشی"]
+        },
+        {
+          "title": "مراقبت پوست",
+          "items": [
+            "ضد آفتاب",
+            "کرم مرطوب کننده و نرم کننده",
+            "ماسک صورت و بدن",
+            "پاک کننده صورت",
+            "تونر",
+            "ابزار مراقبت پوست"
+          ]
+        },
+        {
+          "title": "مراقبت و زیبایی مو",
+          "items": ["مراقبت مو", "آرایش مو", "نرم کننده مو", "شامپو مو"]
+        },
+        {
+          "title": "لوازم بهداشتی و مراقبت شخصی",
+          "items": [
+            "مراقبت دهان و دندان",
+            "مسواک",
+            "خمیر دندان",
+            "دئودورانت و ضد تعریق",
+            "محصولات بهداشت جنسی",
+            "کاندوم",
+            "بهداشت و مراقبت شخصی",
+            "نوار بهداشتی",
+            "کاپ قاعدگی"
+          ]
+        },
+        {
+          "title": "لوازم اصلاح مو",
+          "items": ["تیغ و یدک اصلاح", "اصلاح موی صورت", "اصلاح موی سر"]
+        },
+        {
+          "title": "عطر و ادکلن",
+          "items": [
+            "عطر و ادکلن",
+            "عطر و ادکلن زنانه",
+            "عطر و ادکلن مردانه",
+            "بادی اسپلش",
+            "عطر جیبی"
+          ]
+        },
+        {
+          "title": "لوازم شخصی برقی",
+          "items": ["سشوار", "اتو و حالت دهنده‌ی مو"]
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "image": "https://www.svgrepo.com/show/533551/car.svg",
+      "tex": "موتور سیکلت و خودرو",
+      "columns": [
+        {
+          "title": "انواع خودرو",
+          "items": [
+            "خودرو",
+            "خودرو سدان",
+            "شاسی و نیمه شاسی",
+            "پیکاپ",
+            "موتور سیکلت"
+          ]
+        },
+        {
+          "title": "لوازم مصرفی خودرو",
+          "items": [
+            "روغن موتور",
+            "فیلترها",
+            "قطعات سرویسی",
+            "روغن گیربکس",
+            "روغن هیدرولیک",
+            "ضدیخ و آب رادیاتور",
+            "باتری",
+            "لاستیک",
+            "مکمل سوخت و روغن",
+            "واکس و پولیش",
+            "لوازم نظافت خودرو"
+          ]
+        },
+        {
+          "title": "لوازم یدکی خودرو",
+          "items": [
+            "لوازم بدنه",
+            "چراغ",
+            "آینه جانبی",
+            "لوازم جلوبندی و تعلیق",
+            "لوازم الکترونیکی",
+            "لوازم مکانیکی"
+          ]
+        },
+        {
+          "title": "لوازم صوتی و تصویری خودرو",
+          "items": [
+            "دستگاه پخش",
+            "بلندگو",
+            "آمپلی فایر",
+            "اف ام پلیر",
+            "مسیریاب خودرو",
+            "لوازم جانبی صوتی و تصویری"
+          ]
+        },
+        {
+          "title": "لوازم جانبی خودرو",
+          "items": [
+            "کفپوش خودرو",
+            "آفتابگیر خودرو",
+            "چادر خودرو",
+            "روکش صندلی",
+            "کفپوش صندوق خودرو",
+            "عایق کاپوت، صندوق و دربها",
+            "تجهیزات نظم دهنده",
+            "تجهیزات راحتی سرنشین",
+            "لوازم ضد سرقت",
+            "زنجیر چرخ",
+            "دوربین ثبت وقایع خودرو",
+            "پارکابی",
+            "اسپویلر و دیفیوزر",
+            "هدلایت",
+            "جاسوئیچی",
+            "خوشبوکننده و تصفیه کننده هوای کابین",
+            "باربند",
+            "سر اگزوز",
+            "سر دنده",
+            "لوازم تزئینی خودرو",
+            "تجهیزات آفرود",
+            "تیونینگ و تقویت موتور",
+            "جک خودرو",
+            "کمربند ایمنی",
+            "آنتن خودرو",
+            "والف لاستیک",
+            "بوق خودرو",
+            "غربیلک فرمان",
+            "سایر لوازم جانبی"
+          ]
+        },
+        {
+          "title": "لوازم موتور سیکلت",
+          "items": ["لوازم مصرفی", "لوازم یدکی", "لوازم جانبی", "لوازم ضد سرقت"]
+        },
+        {
+          "title": "لوازم بر اساس نوع خودرو",
+          "items": [
+            "206-207",
+            "L90-ساندرو",
+            "پرشیا-پژو 405",
+            "پراید-تیبا",
+            "سمند-دنا",
+            "کوئیک-ساینا",
+            "زانتیا-برلیانس",
+            "MVM-فونیکس",
+            "جک-لیفان",
+            "هیوندای-کیا",
+            "تویوتا-رنو"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "image": "https://www.svgrepo.com/show/522318/tools.svg",
+      "tex": "ابزار برقی و صنعتی",
+      "columns": [
+        {
+          "title": "ابزار برقی",
+          "items": [
+            "دریل",
+            "پیچ گوشتی و دریل شارژی",
+            "آچار ضربه ای",
+            "فرز و سنگ رومیزی",
+            "موتور برق",
+            "مکنده - دمنده",
+            "جاروبرقی صنعتی",
+            "کارواش",
+            "دستگاه جوش",
+            "هویه",
+            "ابزار برش و تراشکاری",
+            "کمپرسور هوا",
+            "مولتی متر",
+            "لوازم جانبی و یدکی ابزار برقی",
+            "اره زنجیری"
+          ]
+        },
+        {
+          "title": "ابزار غیر برقی و دستی",
+          "items": [
+            "ابزار غیر برقی",
+            "ابزار دستی",
+            "مجموعه ابزار",
+            "نردبان",
+            "پیچ گوشتی و فازمتر",
+            "نظم دهنده ابزار",
+            "متر، تراز، اندازه‌گیری دقیق",
+            "لوازم روانکاری",
+            "چسب صنعتی",
+            "انواع آچار و انبر",
+            "پیچ و مهره، رول پلاک، میخ و پرچ",
+            "مته و سری",
+            "اره",
+            "لوازم بسته بندی"
+          ]
+        },
+        {
+          "title": "لوازم الکتریکی و مصالح ساختمانی",
+          "items": ["لوازم الکتریکی", "رنگ", "زنگ و در بازکن", "مصالح ساختمانی"]
+        },
+        {
+          "title": "لوازم باغبانی و کشاورزی",
+          "items": [
+            "ابزار باغبانی",
+            "ادوات کشاورزی",
+            "بذر و تخم گیاهان",
+            "خاک، کود و آفت کش",
+            "کاشت و پرورش گیاه"
+          ]
+        },
+        {
+          "title": "تجهیزات ایمنی و کار",
+          "items": [
+            "ماسک تنفسی",
+            "لوازم آتش‌نشانی",
+            "لوازم ایمنی و کار",
+            "جعبه کمک‌های اولیه",
+            "برچسب و علائم ایمنی"
+          ]
+        },
+        {
+          "title": "حفاظتی و امنیتی",
+          "items": ["گاوصندوق", "قفل"]
+        },
+        {
+          "title": "دستگاه های حمل و بالابر صنعتی",
+          "items": [
+            "دستگاه های حمل و بالابر صنعتی",
+            "قطعات یدکی ماشین آلات صنعتی",
+            "تجهیزات کارگاهی"
+          ]
+        },
+        {
+          "title": "تجهیزات و شیرآلات",
+          "items": [
+            "مخزن آب",
+            "شیرآلات",
+            "ست شیرآلات",
+            "شیر ظرفشویی",
+            "شیر روشویی",
+            "شیرآلات حمام",
+            "شیر توالت",
+            "اتصالات جانبی"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "image": "https://www.svgrepo.com/show/438839/shirt.svg",
+      "tex": "مد و پوشاک",
+      "columns": [
+        {
+          "title": "پوشاک مردانه",
+          "items": [
+            "لباس مردانه",
+            "تی شرت مردانه",
+            "پولوشرت مردانه",
+            "پیراهن مردانه",
+            "شلوار مردانه",
+            "لباس زیر مردانه",
+            "هودی مردانه",
+            "سویشرت مردانه",
+            "ژاکت و پلیور مردانه",
+            "کت، جلیقه و ست رسمی مردانه",
+            "کت تک مردانه",
+            "کت شلوار مردانه",
+            "جلیقه مردانه",
+            "شلوارک مردانه",
+            "شلوار اسلش مردانه",
+            "شلوار مام استایل مردانه",
+            "شلوار کارگو مردانه",
+            "شلوار جین مردانه",
+            "لباس راحتی مردانه",
+            "جوراب مردانه",
+            "کیف مردانه",
+            "کیف پول مردانه",
+            "کفش مردانه",
+            "نیم بوت مردانه",
+            "بوت مردانه",
+            "کفش اسپرت مردانه",
+            "کفش کالج مردانه",
+            "صندل مردانه",
+            "دمپایی مردانه",
+            "دمپایی لا انگشتی مردانه",
+            "گیوه مردانه",
+            "اکسسوری مردانه",
+            "عینک مردانه",
+            "کمربند و ساسبند مردانه",
+            "کلاه مردانه",
+            "کراوات و پاپیون مردانه",
+            "ورزشی مردانه",
+            "لباس ورزشی مردانه",
+            "مایو مردانه",
+            "گرمکن و ست ورزشی مردانه",
+            "اکسسوری ورزشی مردانه",
+            "کفش ورزشی مردانه",
+            "پک هدیه مردانه",
+            "پالتو، بارانی و کاپشن مردانه",
+            "پالتو مردانه",
+            "کاپشن مردانه",
+            "کت چرم مردانه",
+            "پافر مردانه",
+            "لباس زیر مردانه",
+            "زیرپوش مردانه",
+            "شورت مردانه",
+            "ساعت"
+          ]
+        },
+        {
+          "title": "ساعت مردانه",
+          "items": ["ساعت عقربه ای مردانه", "ساعت دیجیتال مردانه"]
+        },
+        {
+          "title": "پوشاک زنانه",
+          "items": [
+            "لباس زنانه",
+            "تاپ و نیم تنه زنانه",
+            "تیشرت زنانه",
+            "لباس راحتی زنانه",
+            "بلوز و شومیز زنانه",
+            "لباس زیر زنانه",
+            "سویشرت زنانه",
+            "هودی زنانه",
+            "مانتو پانچو رویه",
+            "دامن زنانه",
+            "پیراهن و لباس مجلسی زنانه",
+            "لباس خواب و راحتی زنانه",
+            "لباس خواب زنانه",
+            "بلوز و شومیز زنانه",
+            "بادی زنانه",
+            "ژاکت و پلیور زنانه",
+            "تاپ و نیم تنه زنانه",
+            "تونیک زنانه",
+            "تیشرت زنانه",
+            "پالتو، بارانی و کاپشن زنانه",
+            "کاپشن زنانه",
+            "پالتو زنانه",
+            "کت چرم زنانه",
+            "بارانی زنانه",
+            "پافر زنانه",
+            "کت، جلیقه و ست رسمی زنانه",
+            "لباس زیر زنانه",
+            "شورت زنانه",
+            "سوتین",
+            "شلوار و سرهمی زنانه",
+            "شلوار جین زنانه",
+            "لگینگ زنانه",
+            "شلوارک زنانه",
+            "شلوار کارگو زنانه",
+            "شلوار بگ زنانه",
+            "شلوار مام استایل زنانه",
+            "مانتو زنانه",
+            "مقنعه و پوشیه",
+            "لباس بارداری",
+            "شلوار و سرهمی بارداری",
+            "پیراهن و لباس مجلسی بارداری",
+            "ورزشی زنانه",
+            "لباس ورزشی زنانه",
+            "گرمکن و ست ورزشی زنانه",
+            "تاپ و نیم تنه ورزشی زنانه",
+            "شلوار و سرهمی ورزشی زنانه",
+            "مایو زنانه"
+          ]
+        },
+        {
+          "title": "کفش و کیف زنانه",
+          "items": [
+            "کفش زنانه",
+            "نیم بوت زنانه",
+            "بوت زنانه",
+            "کفش اسپرت زنانه",
+            "کفش کالج زنانه",
+            "صندل زنانه",
+            "دمپایی لاانگشتی زنانه",
+            "دمپایی زنانه",
+            "گیوه زنانه",
+            "کیف زنانه",
+            "اکسسوری زنانه",
+            "ساعت زنانه",
+            "عینک زنانه",
+            "کمربند زنانه",
+            "ست هدیه زنانه"
+          ]
+        },
+        {
+          "title": "پوشاک بچگانه",
+          "items": [
+            "ست راحتی و خواب بچگانه",
+            "کفش و ست ورزشی بچگانه",
+            "کیف و کوله و کفش بچگانه",
+            "دمپایی و صندل بچگانه",
+            "لباس پسرانه",
+            "تیشرت پسرانه",
+            "شلوار و سرهمی جین پسرانه",
+            "سویشرت و هودی پسرانه",
+            "پوشاک دخترانه",
+            "پیراهن دخترانه",
+            "ست لباس دخترانه",
+            "سویشرت و هودی دخترانه",
+            "شلوار و سرهمی جین دخترانه"
+          ]
+        },
+        {
+          "title": "پوشاک نوزادی",
+          "items": [
+            "ست لباس راحتی نوزاد",
+            "بادی نوزادی",
+            "ست نوزاد",
+            "سرهمی نوزاد"
+          ]
+        },
+        {
+          "title": "برندها",
+          "items": [
+            "برند هامتو",
+            "برند چرم مشهد",
+            "برند اسمارا",
+            "برند کروم",
+            "برند سرژه",
+            "برند گردیه",
+            "برند چرم عطارد",
+            "لباس مجلسی کرج"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "image": "https://www.svgrepo.com/show/499191/gold-bar.svg",
+      "tex": "طلا و نقره",
+      "columns": [
+        {
+          "title": "انتخاب موبایل",
+          "items": [
+            "آیفون 16 پرو مکس",
+            "آیفون 16 پرو ",
+            "آیفون 16",
+            "آیفون 15",
+            "آیفون 14",
+            "آیفون 13",
+            "آیفون 12"
+          ]
+        },
+        {
+          "title": "گوشی براساس قیمت",
+          "items": [
+            "گوشی ارزان",
+            "گوشی موبایل قسطی",
+            "گوشی تا ۲ میلیون تومان",
+            "گوشی تا ۵ میلیون تومان",
+            "گوشی تا ۷ میلیون تومان",
+            "گوشی تا ۱۰ میلیون تومان",
+            "گوشی تا ۱۲ میلیون تومان",
+            "گوشی تا ۱۵ میلیون تومان",
+            "گوشی تا ۲۰ میلیون تومان",
+            "گوشی تا ۲۵ میلیون تومان",
+            "گوشی تا ۳۰ میلیون تومان",
+            "گوشی تا ۵۰ میلیون تومان"
+          ]
+        },
+        {
+          "title": "لوازم جانبی موبایل",
+          "items": [
+            "شارژر گوشی",
+            "شارژر وایرلس",
+            "شارژر تایپ سی",
+            "کابل شارژ تایپ سی",
+            "قاب گوشی",
+            "گلس گوشی",
+            "شارژر فندکی",
+            "هولدر گوشی موبایل",
+            "کابل شارژ و مبدل",
+            "پاوربانک (شارژر همراه)",
+            "مونوپاد",
+            "کاور ایرپاد",
+            "هولدر گردنی",
+            "فن خنک کننده گوشی"
+          ]
+        },
+        {
+          "title": "داغ‌ترین‌ها",
+          "items": [
+            "گوشی S25 سامسونگ",
+            "شیائومی نوت ۱۴",
+            "ردمی نوت ۱۴ پرو",
+            "ردمی نوت ۱۴ پرو پلاس",
+            "آیفون ۱۳",
+            "گوشی سامسونگ سری s",
+            "گوشی سامسونگ سری a",
+            "گوشی سامسونگ سری ",
+            "موبایل اصفهان",
+            "داریا باند 5G",
+            "گلکسی S23 Ultra",
+            "گلکسی S23 FE",
+            "پوکو x7 پرو",
+            "گلکسی A56"
+          ]
+        },
+        {
+          "title": "برندهای مختلف گوشی موبایل",
+          "items": [
+            "گوشی سامسونگ",
+            "گوشی شیائومی",
+            "گوشی نوکیا",
+            "گوشی ریلمی",
+            "گوشی آنر",
+            "گوشی ناتینگ فون",
+            "گوشی وکال",
+            "گوشی ردتون",
+            "گوشی تی سی ال",
+            "گوشی هواوی",
+            "گوشی داریا",
+            "گوشی گوگل پیکسل",
+            "گوشی جی ال ایکس",
+            "گوشی آلکاتل",
+            "گوشی وان پلاس",
+            "گوشی‌های جنرال لوکس",
+            "گوشی موبایل دوجی",
+            "گوشی HMD",
+            "گوشی پوکو",
+            "گوشی بلک ویو",
+            "گوشی ریلمی"
+          ]
+        },
+        {
+          "title": "گوشی براساس عملکرد",
+          "items": [
+            "گوشی گیمینگ",
+            "گوشی 5G",
+            "گوشی دکمه‌ای",
+            "گوشی ضد آب",
+            "گوشی مناسب عکاسی",
+            "گوشی میان رده",
+            "گوشی دانش آموزی",
+            "گوشی پرچمدار",
+            "گوشی دو سیمکارت"
+          ]
+        },
+        {
+          "title": "داغ‌ترین‌ها",
+          "items": [
+            "گوشی S25 سامسونگ",
+            "شیائومی نوت ۱۴",
+            "ردمی نوت ۱۴ پرو",
+            "ردمی نوت ۱۴ پرو پلاس",
+            "آیفون ۱۳",
+            "گوشی سامسونگ سری s",
+            "گوشی سامسونگ سری a",
+            "گوشی سامسونگ سری ",
+            "موبایل اصفهان",
+            "داریا باند 5G",
+            "گلکسی S23 Ultra",
+            "گلکسی S23 FE",
+            "پوکو x7 پرو",
+            "گلکسی A56"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "image": "https://www.svgrepo.com/show/389569/milk-farm-product-fresh.svg",
+      "tex": "تجهیزات پزشکی و سلامت",
+      "columns": [
+        {
+          "title": "انتخاب موبایل",
+          "items": [
+            "آیفون 16 پرو مکس",
+            "آیفون 16 پرو ",
+            "آیفون 16",
+            "آیفون 15",
+            "آیفون 14",
+            "آیفون 13",
+            "آیفون 12"
+          ]
+        },
+        {
+          "title": "گوشی براساس قیمت",
+          "items": [
+            "گوشی ارزان",
+            "گوشی موبایل قسطی",
+            "گوشی تا ۲ میلیون تومان",
+            "گوشی تا ۵ میلیون تومان",
+            "گوشی تا ۷ میلیون تومان",
+            "گوشی تا ۱۰ میلیون تومان",
+            "گوشی تا ۱۲ میلیون تومان",
+            "گوشی تا ۱۵ میلیون تومان",
+            "گوشی تا ۲۰ میلیون تومان",
+            "گوشی تا ۲۵ میلیون تومان",
+            "گوشی تا ۳۰ میلیون تومان",
+            "گوشی تا ۵۰ میلیون تومان"
+          ]
+        },
+        {
+          "title": "لوازم جانبی موبایل",
+          "items": [
+            "شارژر گوشی",
+            "شارژر وایرلس",
+            "شارژر تایپ سی",
+            "کابل شارژ تایپ سی",
+            "قاب گوشی",
+            "گلس گوشی",
+            "شارژر فندکی",
+            "هولدر گوشی موبایل",
+            "کابل شارژ و مبدل",
+            "پاوربانک (شارژر همراه)",
+            "مونوپاد",
+            "کاور ایرپاد",
+            "هولدر گردنی",
+            "فن خنک کننده گوشی"
+          ]
+        },
+        {
+          "title": "داغ‌ترین‌ها",
+          "items": [
+            "گوشی S25 سامسونگ",
+            "شیائومی نوت ۱۴",
+            "ردمی نوت ۱۴ پرو",
+            "ردمی نوت ۱۴ پرو پلاس",
+            "آیفون ۱۳",
+            "گوشی سامسونگ سری s",
+            "گوشی سامسونگ سری a",
+            "گوشی سامسونگ سری ",
+            "موبایل اصفهان",
+            "داریا باند 5G",
+            "گلکسی S23 Ultra",
+            "گلکسی S23 FE",
+            "پوکو x7 پرو",
+            "گلکسی A56"
+          ]
+        },
+        {
+          "title": "برندهای مختلف گوشی موبایل",
+          "items": [
+            "گوشی سامسونگ",
+            "گوشی شیائومی",
+            "گوشی نوکیا",
+            "گوشی ریلمی",
+            "گوشی آنر",
+            "گوشی ناتینگ فون",
+            "گوشی وکال",
+            "گوشی ردتون",
+            "گوشی تی سی ال",
+            "گوشی هواوی",
+            "گوشی داریا",
+            "گوشی گوگل پیکسل",
+            "گوشی جی ال ایکس",
+            "گوشی آلکاتل",
+            "گوشی وان پلاس",
+            "گوشی‌های جنرال لوکس",
+            "گوشی موبایل دوجی",
+            "گوشی HMD",
+            "گوشی پوکو",
+            "گوشی بلک ویو",
+            "گوشی ریلمی"
+          ]
+        },
+        {
+          "title": "گوشی براساس عملکرد",
+          "items": [
+            "گوشی گیمینگ",
+            "گوشی 5G",
+            "گوشی دکمه‌ای",
+            "گوشی ضد آب",
+            "گوشی مناسب عکاسی",
+            "گوشی میان رده",
+            "گوشی دانش آموزی",
+            "گوشی پرچمدار",
+            "گوشی دو سیمکارت"
+          ]
+        },
+        {
+          "title": "داغ‌ترین‌ها",
+          "items": [
+            "گوشی S25 سامسونگ",
+            "شیائومی نوت ۱۴",
+            "ردمی نوت ۱۴ پرو",
+            "ردمی نوت ۱۴ پرو پلاس",
+            "آیفون ۱۳",
+            "گوشی سامسونگ سری s",
+            "گوشی سامسونگ سری a",
+            "گوشی سامسونگ سری ",
+            "موبایل اصفهان",
+            "داریا باند 5G",
+            "گلکسی S23 Ultra",
+            "گلکسی S23 FE",
+            "پوکو x7 پرو",
+            "گلکسی A56"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "image": "https://www.svgrepo.com/show/532993/pen-ruler.svg",
+      "tex": "کتاب، لوازم تحریر ",
+      "columns": [
+        {
+          "title": "انتخاب موبایل",
+          "items": [
+            "آیفون 16 پرو مکس",
+            "آیفون 16 پرو ",
+            "آیفون 16",
+            "آیفون 15",
+            "آیفون 14",
+            "آیفون 13",
+            "آیفون 12"
+          ]
+        },
+        {
+          "title": "گوشی براساس قیمت",
+          "items": [
+            "گوشی ارزان",
+            "گوشی موبایل قسطی",
+            "گوشی تا ۲ میلیون تومان",
+            "گوشی تا ۵ میلیون تومان",
+            "گوشی تا ۷ میلیون تومان",
+            "گوشی تا ۱۰ میلیون تومان",
+            "گوشی تا ۱۲ میلیون تومان",
+            "گوشی تا ۱۵ میلیون تومان",
+            "گوشی تا ۲۰ میلیون تومان",
+            "گوشی تا ۲۵ میلیون تومان",
+            "گوشی تا ۳۰ میلیون تومان",
+            "گوشی تا ۵۰ میلیون تومان"
+          ]
+        },
+        {
+          "title": "لوازم جانبی موبایل",
+          "items": [
+            "شارژر گوشی",
+            "شارژر وایرلس",
+            "شارژر تایپ سی",
+            "کابل شارژ تایپ سی",
+            "قاب گوشی",
+            "گلس گوشی",
+            "شارژر فندکی",
+            "هولدر گوشی موبایل",
+            "کابل شارژ و مبدل",
+            "پاوربانک (شارژر همراه)",
+            "مونوپاد",
+            "کاور ایرپاد",
+            "هولدر گردنی",
+            "فن خنک کننده گوشی"
+          ]
+        },
+        {
+          "title": "داغ‌ترین‌ها",
+          "items": [
+            "گوشی S25 سامسونگ",
+            "شیائومی نوت ۱۴",
+            "ردمی نوت ۱۴ پرو",
+            "ردمی نوت ۱۴ پرو پلاس",
+            "آیفون ۱۳",
+            "گوشی سامسونگ سری s",
+            "گوشی سامسونگ سری a",
+            "گوشی سامسونگ سری ",
+            "موبایل اصفهان",
+            "داریا باند 5G",
+            "گلکسی S23 Ultra",
+            "گلکسی S23 FE",
+            "پوکو x7 پرو",
+            "گلکسی A56"
+          ]
+        },
+        {
+          "title": "برندهای مختلف گوشی موبایل",
+          "items": [
+            "گوشی سامسونگ",
+            "گوشی شیائومی",
+            "گوشی نوکیا",
+            "گوشی ریلمی",
+            "گوشی آنر",
+            "گوشی ناتینگ فون",
+            "گوشی وکال",
+            "گوشی ردتون",
+            "گوشی تی سی ال",
+            "گوشی هواوی",
+            "گوشی داریا",
+            "گوشی گوگل پیکسل",
+            "گوشی جی ال ایکس",
+            "گوشی آلکاتل",
+            "گوشی وان پلاس",
+            "گوشی‌های جنرال لوکس",
+            "گوشی موبایل دوجی",
+            "گوشی HMD",
+            "گوشی پوکو",
+            "گوشی بلک ویو",
+            "گوشی ریلمی"
+          ]
+        },
+        {
+          "title": "گوشی براساس عملکرد",
+          "items": [
+            "گوشی گیمینگ",
+            "گوشی 5G",
+            "گوشی دکمه‌ای",
+            "گوشی ضد آب",
+            "گوشی مناسب عکاسی",
+            "گوشی میان رده",
+            "گوشی دانش آموزی",
+            "گوشی پرچمدار",
+            "گوشی دو سیمکارت"
+          ]
+        },
+        {
+          "title": "داغ‌ترین‌ها",
+          "items": [
+            "گوشی S25 سامسونگ",
+            "شیائومی نوت ۱۴",
+            "ردمی نوت ۱۴ پرو",
+            "ردمی نوت ۱۴ پرو پلاس",
+            "آیفون ۱۳",
+            "گوشی سامسونگ سری s",
+            "گوشی سامسونگ سری a",
+            "گوشی سامسونگ سری ",
+            "موبایل اصفهان",
+            "داریا باند 5G",
+            "گلکسی S23 Ultra",
+            "گلکسی S23 FE",
+            "پوکو x7 پرو",
+            "گلکسی A56"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "image": "https://www.svgrepo.com/show/198117/tent.svg",
+      "tex": "ورزش و سفر",
+      "columns": [
+        {
+          "title": "انتخاب موبایل",
+          "items": [
+            "آیفون 16 پرو مکس",
+            "آیفون 16 پرو ",
+            "آیفون 16",
+            "آیفون 15",
+            "آیفون 14",
+            "آیفون 13",
+            "آیفون 12"
+          ]
+        },
+        {
+          "title": "گوشی براساس قیمت",
+          "items": [
+            "گوشی ارزان",
+            "گوشی موبایل قسطی",
+            "گوشی تا ۲ میلیون تومان",
+            "گوشی تا ۵ میلیون تومان",
+            "گوشی تا ۷ میلیون تومان",
+            "گوشی تا ۱۰ میلیون تومان",
+            "گوشی تا ۱۲ میلیون تومان",
+            "گوشی تا ۱۵ میلیون تومان",
+            "گوشی تا ۲۰ میلیون تومان",
+            "گوشی تا ۲۵ میلیون تومان",
+            "گوشی تا ۳۰ میلیون تومان",
+            "گوشی تا ۵۰ میلیون تومان"
+          ]
+        },
+        {
+          "title": "لوازم جانبی موبایل",
+          "items": [
+            "شارژر گوشی",
+            "شارژر وایرلس",
+            "شارژر تایپ سی",
+            "کابل شارژ تایپ سی",
+            "قاب گوشی",
+            "گلس گوشی",
+            "شارژر فندکی",
+            "هولدر گوشی موبایل",
+            "کابل شارژ و مبدل",
+            "پاوربانک (شارژر همراه)",
+            "مونوپاد",
+            "کاور ایرپاد",
+            "هولدر گردنی",
+            "فن خنک کننده گوشی"
+          ]
+        },
+        {
+          "title": "داغ‌ترین‌ها",
+          "items": [
+            "گوشی S25 سامسونگ",
+            "شیائومی نوت ۱۴",
+            "ردمی نوت ۱۴ پرو",
+            "ردمی نوت ۱۴ پرو پلاس",
+            "آیفون ۱۳",
+            "گوشی سامسونگ سری s",
+            "گوشی سامسونگ سری a",
+            "گوشی سامسونگ سری ",
+            "موبایل اصفهان",
+            "داریا باند 5G",
+            "گلکسی S23 Ultra",
+            "گلکسی S23 FE",
+            "پوکو x7 پرو",
+            "گلکسی A56"
+          ]
+        },
+        {
+          "title": "برندهای مختلف گوشی موبایل",
+          "items": [
+            "گوشی سامسونگ",
+            "گوشی شیائومی",
+            "گوشی نوکیا",
+            "گوشی ریلمی",
+            "گوشی آنر",
+            "گوشی ناتینگ فون",
+            "گوشی وکال",
+            "گوشی ردتون",
+            "گوشی تی سی ال",
+            "گوشی هواوی",
+            "گوشی داریا",
+            "گوشی گوگل پیکسل",
+            "گوشی جی ال ایکس",
+            "گوشی آلکاتل",
+            "گوشی وان پلاس",
+            "گوشی‌های جنرال لوکس",
+            "گوشی موبایل دوجی",
+            "گوشی HMD",
+            "گوشی پوکو",
+            "گوشی بلک ویو",
+            "گوشی ریلمی"
+          ]
+        },
+        {
+          "title": "گوشی براساس عملکرد",
+          "items": [
+            "گوشی گیمینگ",
+            "گوشی 5G",
+            "گوشی دکمه‌ای",
+            "گوشی ضد آب",
+            "گوشی مناسب عکاسی",
+            "گوشی میان رده",
+            "گوشی دانش آموزی",
+            "گوشی پرچمدار",
+            "گوشی دو سیمکارت"
+          ]
+        },
+        {
+          "title": "داغ‌ترین‌ها",
+          "items": [
+            "گوشی S25 سامسونگ",
+            "شیائومی نوت ۱۴",
+            "ردمی نوت ۱۴ پرو",
+            "ردمی نوت ۱۴ پرو پلاس",
+            "آیفون ۱۳",
+            "گوشی سامسونگ سری s",
+            "گوشی سامسونگ سری a",
+            "گوشی سامسونگ سری ",
+            "موبایل اصفهان",
+            "داریا باند 5G",
+            "گلکسی S23 Ultra",
+            "گلکسی S23 FE",
+            "پوکو x7 پرو",
+            "گلکسی A56"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 255,
+      "image": "https://www.svgrepo.com/show/335226/gift-card.svg",
+      "tex": "کارت هدیه و گیفت کارت",
+      "columns": [
+        {
+          "title": "انتخاب موبایل",
+          "items": [
+            "آیفون 16 پرو مکس",
+            "آیفون 16 پرو ",
+            "آیفون 16",
+            "آیفون 15",
+            "آیفون 14",
+            "آیفون 13",
+            "آیفون 12"
+          ]
+        },
+        {
+          "title": "گوشی براساس قیمت",
+          "items": [
+            "گوشی ارزان",
+            "گوشی موبایل قسطی",
+            "گوشی تا ۲ میلیون تومان",
+            "گوشی تا ۵ میلیون تومان",
+            "گوشی تا ۷ میلیون تومان",
+            "گوشی تا ۱۰ میلیون تومان",
+            "گوشی تا ۱۲ میلیون تومان",
+            "گوشی تا ۱۵ میلیون تومان",
+            "گوشی تا ۲۰ میلیون تومان",
+            "گوشی تا ۲۵ میلیون تومان",
+            "گوشی تا ۳۰ میلیون تومان",
+            "گوشی تا ۵۰ میلیون تومان"
+          ]
+        },
+        {
+          "title": "لوازم جانبی موبایل",
+          "items": [
+            "شارژر گوشی",
+            "شارژر وایرلس",
+            "شارژر تایپ سی",
+            "کابل شارژ تایپ سی",
+            "قاب گوشی",
+            "گلس گوشی",
+            "شارژر فندکی",
+            "هولدر گوشی موبایل",
+            "کابل شارژ و مبدل",
+            "پاوربانک (شارژر همراه)",
+            "مونوپاد",
+            "کاور ایرپاد",
+            "هولدر گردنی",
+            "فن خنک کننده گوشی"
+          ]
+        },
+        {
+          "title": "داغ‌ترین‌ها",
+          "items": [
+            "گوشی S25 سامسونگ",
+            "شیائومی نوت ۱۴",
+            "ردمی نوت ۱۴ پرو",
+            "ردمی نوت ۱۴ پرو پلاس",
+            "آیفون ۱۳",
+            "گوشی سامسونگ سری s",
+            "گوشی سامسونگ سری a",
+            "گوشی سامسونگ سری ",
+            "موبایل اصفهان",
+            "داریا باند 5G",
+            "گلکسی S23 Ultra",
+            "گلکسی S23 FE",
+            "پوکو x7 پرو",
+            "گلکسی A56"
+          ]
+        },
+        {
+          "title": "برندهای مختلف گوشی موبایل",
+          "items": [
+            "گوشی سامسونگ",
+            "گوشی شیائومی",
+            "گوشی نوکیا",
+            "گوشی ریلمی",
+            "گوشی آنر",
+            "گوشی ناتینگ فون",
+            "گوشی وکال",
+            "گوشی ردتون",
+            "گوشی تی سی ال",
+            "گوشی هواوی",
+            "گوشی داریا",
+            "گوشی گوگل پیکسل",
+            "گوشی جی ال ایکس",
+            "گوشی آلکاتل",
+            "گوشی وان پلاس",
+            "گوشی‌های جنرال لوکس",
+            "گوشی موبایل دوجی",
+            "گوشی HMD",
+            "گوشی پوکو",
+            "گوشی بلک ویو",
+            "گوشی ریلمی"
+          ]
+        },
+        {
+          "title": "گوشی براساس عملکرد",
+          "items": [
+            "گوشی گیمینگ",
+            "گوشی 5G",
+            "گوشی دکمه‌ای",
+            "گوشی ضد آب",
+            "گوشی مناسب عکاسی",
+            "گوشی میان رده",
+            "گوشی دانش آموزی",
+            "گوشی پرچمدار",
+            "گوشی دو سیمکارت"
+          ]
+        },
+        {
+          "title": "داغ‌ترین‌ها",
+          "items": [
+            "گوشی S25 سامسونگ",
+            "شیائومی نوت ۱۴",
+            "ردمی نوت ۱۴ پرو",
+            "ردمی نوت ۱۴ پرو پلاس",
+            "آیفون ۱۳",
+            "گوشی سامسونگ سری s",
+            "گوشی سامسونگ سری a",
+            "گوشی سامسونگ سری ",
+            "موبایل اصفهان",
+            "داریا باند 5G",
+            "گلکسی S23 Ultra",
+            "گلکسی S23 FE",
+            "پوکو x7 پرو",
+            "گلکسی A56"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 256,
+      "image": "https://www.svgrepo.com/show/224643/snacks-popcorn.svg",
+      "tex": "سوپر مارکت آنلاین",
+      "columns": [
+        {
+          "title": "انتخاب موبایل",
+          "items": [
+            "آیفون 16 پرو مکس",
+            "آیفون 16 پرو ",
+            "آیفون 16",
+            "آیفون 15",
+            "آیفون 14",
+            "آیفون 13",
+            "آیفون 12"
+          ]
+        },
+        {
+          "title": "گوشی براساس قیمت",
+          "items": [
+            "گوشی ارزان",
+            "گوشی موبایل قسطی",
+            "گوشی تا ۲ میلیون تومان",
+            "گوشی تا ۵ میلیون تومان",
+            "گوشی تا ۷ میلیون تومان",
+            "گوشی تا ۱۰ میلیون تومان",
+            "گوشی تا ۱۲ میلیون تومان",
+            "گوشی تا ۱۵ میلیون تومان",
+            "گوشی تا ۲۰ میلیون تومان",
+            "گوشی تا ۲۵ میلیون تومان",
+            "گوشی تا ۳۰ میلیون تومان",
+            "گوشی تا ۵۰ میلیون تومان"
+          ]
+        },
+        {
+          "title": "لوازم جانبی موبایل",
+          "items": [
+            "شارژر گوشی",
+            "شارژر وایرلس",
+            "شارژر تایپ سی",
+            "کابل شارژ تایپ سی",
+            "قاب گوشی",
+            "گلس گوشی",
+            "شارژر فندکی",
+            "هولدر گوشی موبایل",
+            "کابل شارژ و مبدل",
+            "پاوربانک (شارژر همراه)",
+            "مونوپاد",
+            "کاور ایرپاد",
+            "هولدر گردنی",
+            "فن خنک کننده گوشی"
+          ]
+        },
+        {
+          "title": "داغ‌ترین‌ها",
+          "items": [
+            "گوشی S25 سامسونگ",
+            "شیائومی نوت ۱۴",
+            "ردمی نوت ۱۴ پرو",
+            "ردمی نوت ۱۴ پرو پلاس",
+            "آیفون ۱۳",
+            "گوشی سامسونگ سری s",
+            "گوشی سامسونگ سری a",
+            "گوشی سامسونگ سری ",
+            "موبایل اصفهان",
+            "داریا باند 5G",
+            "گلکسی S23 Ultra",
+            "گلکسی S23 FE",
+            "پوکو x7 پرو",
+            "گلکسی A56"
+          ]
+        },
+        {
+          "title": "برندهای مختلف گوشی موبایل",
+          "items": [
+            "گوشی سامسونگ",
+            "گوشی شیائومی",
+            "گوشی نوکیا",
+            "گوشی ریلمی",
+            "گوشی آنر",
+            "گوشی ناتینگ فون",
+            "گوشی وکال",
+            "گوشی ردتون",
+            "گوشی تی سی ال",
+            "گوشی هواوی",
+            "گوشی داریا",
+            "گوشی گوگل پیکسل",
+            "گوشی جی ال ایکس",
+            "گوشی آلکاتل",
+            "گوشی وان پلاس",
+            "گوشی‌های جنرال لوکس",
+            "گوشی موبایل دوجی",
+            "گوشی HMD",
+            "گوشی پوکو",
+            "گوشی بلک ویو",
+            "گوشی ریلمی"
+          ]
+        },
+        {
+          "title": "گوشی براساس عملکرد",
+          "items": [
+            "گوشی گیمینگ",
+            "گوشی 5G",
+            "گوشی دکمه‌ای",
+            "گوشی ضد آب",
+            "گوشی مناسب عکاسی",
+            "گوشی میان رده",
+            "گوشی دانش آموزی",
+            "گوشی پرچمدار",
+            "گوشی دو سیمکارت"
+          ]
+        },
+        {
+          "title": "داغ‌ترین‌ها",
+          "items": [
+            "گوشی S25 سامسونگ",
+            "شیائومی نوت ۱۴",
+            "ردمی نوت ۱۴ پرو",
+            "ردمی نوت ۱۴ پرو پلاس",
+            "آیفون ۱۳",
+            "گوشی سامسونگ سری s",
+            "گوشی سامسونگ سری a",
+            "گوشی سامسونگ سری ",
+            "موبایل اصفهان",
+            "داریا باند 5G",
+            "گلکسی S23 Ultra",
+            "گلکسی S23 FE",
+            "پوکو x7 پرو",
+            "گلکسی A56"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 257,
+      "image": "https://www.svgrepo.com/show/521491/baby.svg",
+      "tex": "اسباب بازی، کودک و نوزاد",
+      "columns": [
+        {
+          "title": "انتخاب موبایل",
+          "items": [
+            "آیفون 16 پرو مکس",
+            "آیفون 16 پرو ",
+            "آیفون 16",
+            "آیفون 15",
+            "آیفون 14",
+            "آیفون 13",
+            "آیفون 12"
+          ]
+        },
+        {
+          "title": "گوشی براساس قیمت",
+          "items": [
+            "گوشی ارزان",
+            "گوشی موبایل قسطی",
+            "گوشی تا ۲ میلیون تومان",
+            "گوشی تا ۵ میلیون تومان",
+            "گوشی تا ۷ میلیون تومان",
+            "گوشی تا ۱۰ میلیون تومان",
+            "گوشی تا ۱۲ میلیون تومان",
+            "گوشی تا ۱۵ میلیون تومان",
+            "گوشی تا ۲۰ میلیون تومان",
+            "گوشی تا ۲۵ میلیون تومان",
+            "گوشی تا ۳۰ میلیون تومان",
+            "گوشی تا ۵۰ میلیون تومان"
+          ]
+        },
+        {
+          "title": "لوازم جانبی موبایل",
+          "items": [
+            "شارژر گوشی",
+            "شارژر وایرلس",
+            "شارژر تایپ سی",
+            "کابل شارژ تایپ سی",
+            "قاب گوشی",
+            "گلس گوشی",
+            "شارژر فندکی",
+            "هولدر گوشی موبایل",
+            "کابل شارژ و مبدل",
+            "پاوربانک (شارژر همراه)",
+            "مونوپاد",
+            "کاور ایرپاد",
+            "هولدر گردنی",
+            "فن خنک کننده گوشی"
+          ]
+        },
+        {
+          "title": "داغ‌ترین‌ها",
+          "items": [
+            "گوشی S25 سامسونگ",
+            "شیائومی نوت ۱۴",
+            "ردمی نوت ۱۴ پرو",
+            "ردمی نوت ۱۴ پرو پلاس",
+            "آیفون ۱۳",
+            "گوشی سامسونگ سری s",
+            "گوشی سامسونگ سری a",
+            "گوشی سامسونگ سری ",
+            "موبایل اصفهان",
+            "داریا باند 5G",
+            "گلکسی S23 Ultra",
+            "گلکسی S23 FE",
+            "پوکو x7 پرو",
+            "گلکسی A56"
+          ]
+        },
+        {
+          "title": "برندهای مختلف گوشی موبایل",
+          "items": [
+            "گوشی سامسونگ",
+            "گوشی شیائومی",
+            "گوشی نوکیا",
+            "گوشی ریلمی",
+            "گوشی آنر",
+            "گوشی ناتینگ فون",
+            "گوشی وکال",
+            "گوشی ردتون",
+            "گوشی تی سی ال",
+            "گوشی هواوی",
+            "گوشی داریا",
+            "گوشی گوگل پیکسل",
+            "گوشی جی ال ایکس",
+            "گوشی آلکاتل",
+            "گوشی وان پلاس",
+            "گوشی‌های جنرال لوکس",
+            "گوشی موبایل دوجی",
+            "گوشی HMD",
+            "گوشی پوکو",
+            "گوشی بلک ویو",
+            "گوشی ریلمی"
+          ]
+        },
+        {
+          "title": "گوشی براساس عملکرد",
+          "items": [
+            "گوشی گیمینگ",
+            "گوشی 5G",
+            "گوشی دکمه‌ای",
+            "گوشی ضد آب",
+            "گوشی مناسب عکاسی",
+            "گوشی میان رده",
+            "گوشی دانش آموزی",
+            "گوشی پرچمدار",
+            "گوشی دو سیمکارت"
+          ]
+        },
+        {
+          "title": "داغ‌ترین‌ها",
+          "items": [
+            "گوشی S25 سامسونگ",
+            "شیائومی نوت ۱۴",
+            "ردمی نوت ۱۴ پرو",
+            "ردمی نوت ۱۴ پرو پلاس",
+            "آیفون ۱۳",
+            "گوشی سامسونگ سری s",
+            "گوشی سامسونگ سری a",
+            "گوشی سامسونگ سری ",
+            "موبایل اصفهان",
+            "داریا باند 5G",
+            "گلکسی S23 Ultra",
+            "گلکسی S23 FE",
+            "پوکو x7 پرو",
+            "گلکسی A56"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 258,
+      "image": "https://www.svgrepo.com/show/237511/kennel-pet-shop.svg",
+      "tex": "پت شاپ",
+      "columns": [
+        {
+          "title": "انتخاب موبایل",
+          "items": [
+            "آیفون 16 پرو مکس",
+            "آیفون 16 پرو ",
+            "آیفون 16",
+            "آیفون 15",
+            "آیفون 14",
+            "آیفون 13",
+            "آیفون 12"
+          ]
+        },
+        {
+          "title": "گوشی براساس قیمت",
+          "items": [
+            "گوشی ارزان",
+            "گوشی موبایل قسطی",
+            "گوشی تا ۲ میلیون تومان",
+            "گوشی تا ۵ میلیون تومان",
+            "گوشی تا ۷ میلیون تومان",
+            "گوشی تا ۱۰ میلیون تومان",
+            "گوشی تا ۱۲ میلیون تومان",
+            "گوشی تا ۱۵ میلیون تومان",
+            "گوشی تا ۲۰ میلیون تومان",
+            "گوشی تا ۲۵ میلیون تومان",
+            "گوشی تا ۳۰ میلیون تومان",
+            "گوشی تا ۵۰ میلیون تومان"
+          ]
+        },
+        {
+          "title": "لوازم جانبی موبایل",
+          "items": [
+            "شارژر گوشی",
+            "شارژر وایرلس",
+            "شارژر تایپ سی",
+            "کابل شارژ تایپ سی",
+            "قاب گوشی",
+            "گلس گوشی",
+            "شارژر فندکی",
+            "هولدر گوشی موبایل",
+            "کابل شارژ و مبدل",
+            "پاوربانک (شارژر همراه)",
+            "مونوپاد",
+            "کاور ایرپاد",
+            "هولدر گردنی",
+            "فن خنک کننده گوشی"
+          ]
+        },
+        {
+          "title": "داغ‌ترین‌ها",
+          "items": [
+            "گوشی S25 سامسونگ",
+            "شیائومی نوت ۱۴",
+            "ردمی نوت ۱۴ پرو",
+            "ردمی نوت ۱۴ پرو پلاس",
+            "آیفون ۱۳",
+            "گوشی سامسونگ سری s",
+            "گوشی سامسونگ سری a",
+            "گوشی سامسونگ سری ",
+            "موبایل اصفهان",
+            "داریا باند 5G",
+            "گلکسی S23 Ultra",
+            "گلکسی S23 FE",
+            "پوکو x7 پرو",
+            "گلکسی A56"
+          ]
+        },
+        {
+          "title": "برندهای مختلف گوشی موبایل",
+          "items": [
+            "گوشی سامسونگ",
+            "گوشی شیائومی",
+            "گوشی نوکیا",
+            "گوشی ریلمی",
+            "گوشی آنر",
+            "گوشی ناتینگ فون",
+            "گوشی وکال",
+            "گوشی ردتون",
+            "گوشی تی سی ال",
+            "گوشی هواوی",
+            "گوشی داریا",
+            "گوشی گوگل پیکسل",
+            "گوشی جی ال ایکس",
+            "گوشی آلکاتل",
+            "گوشی وان پلاس",
+            "گوشی‌های جنرال لوکس",
+            "گوشی موبایل دوجی",
+            "گوشی HMD",
+            "گوشی پوکو",
+            "گوشی بلک ویو",
+            "گوشی ریلمی"
+          ]
+        },
+        {
+          "title": "گوشی براساس عملکرد",
+          "items": [
+            "گوشی گیمینگ",
+            "گوشی 5G",
+            "گوشی دکمه‌ای",
+            "گوشی ضد آب",
+            "گوشی مناسب عکاسی",
+            "گوشی میان رده",
+            "گوشی دانش آموزی",
+            "گوشی پرچمدار",
+            "گوشی دو سیمکارت"
+          ]
+        },
+        {
+          "title": "داغ‌ترین‌ها",
+          "items": [
+            "گوشی S25 سامسونگ",
+            "شیائومی نوت ۱۴",
+            "ردمی نوت ۱۴ پرو",
+            "ردمی نوت ۱۴ پرو پلاس",
+            "آیفون ۱۳",
+            "گوشی سامسونگ سری s",
+            "گوشی سامسونگ سری a",
+            "گوشی سامسونگ سری ",
+            "موبایل اصفهان",
+            "داریا باند 5G",
+            "گلکسی S23 Ultra",
+            "گلکسی S23 FE",
+            "پوکو x7 پرو",
+            "گلکسی A56"
+          ]
+        }
+      ]
+    }
+  ]
+}
