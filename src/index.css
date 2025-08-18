@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: IranSans;
+    src: url("../font/IRANYekanWeb.ttf");
+    src: url("../font/iranyekanweb.woff");
+    src: url("../font/IRANYekanWeb.woff2");
+}
+
+*{
+    font-family: IranSans;
+}
+
+  &::-webkit-scrollbar {
+    width: 0.5rem;
+    background-color: var(--color-neutral-200);
+  }
+  &::-webkit-scrollbar-thumb {
+    background-color:#c0c2c5;
+  }
+.swiper-pagination-bullet {
+  background-color: #bebebe !important;
+  opacity: 1 !important;
+}
+
+.swiper-pagination-bullet-active,
+.swiper-pagination-bullet-dynamic-main {
+  background-color: #ffffff !important;
+}
+
+.swiper-pagination-bullet-dynamic-prev,
+.swiper-pagination-bullet-dynamic-next {
+  background-color: #b9b9b9 !important;
+}
+
+
+
+.no-bullets .swiper-pagination-bullets{
+  display: none  !important;
+}
+
+
+.slide-items:nth-child(3n) div{
+  border-bottom: none !important;
+}
